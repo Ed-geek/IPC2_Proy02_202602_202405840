@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IPC2 · Proyecto 2 · Librería</title>
+<link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+
+<header>
+  <h1>📚 Sistema de Librería</h1>
+  <nav>
+    <button data-tab="init">Inicialización</button>
+    <button data-tab="xml">Cargar XML</button>
+    <button data-tab="catalog">Catálogo</button>
+    <button data-tab="books">Libros</button>
+    <button data-tab="help">Ayuda</button>
+  </nav>
+</header>
+
+<main>
+
+  <!-- ═══════════════ INICIALIZACIÓN ═══════════════ -->
+  <section id="init" class="tab">
+    <h2>Inicialización</h2>
+    <p>Reinicia el sistema sin información previa. Se borran todas las categorías y libros.</p>
+    <button id="btnInit" class="primary">Inicializar sistema</button>
+    <pre id="initOut"></pre>
+  </section>
+
+  <!-- ═══════════════ CARGAR XML ═══════════════ -->
+  <section id="xml" class="tab">
+    <h2>Cargar archivo XML</h2>
+    <p>Selecciona un archivo de entrada. La carga es incremental: puedes cargar varios XML consecutivos sin reiniciar.</p>
+    <input type="file" id="xmlFile" accept=".xml">
+    <button id="btnUpload" class="primary">Cargar</button>
+    <pre id="xmlOut"></pre>
+  </section>
+
+  <!-- ═══════════════ CATÁLOGO ═══════════════ -->
+  <section id="catalog" class="tab">
+    <h2>Gestión de catálogo</h2>
+
+    <h3>Agregar categoría</h3>
+    <input id="catName"   placeholder="Nombre de la categoría">
+    <input id="catParent" placeholder="Padre (opcional, ej. Catalogo)">
+    <button id="btnAddCat" class="primary">Agregar</button>
+
+    <h3>Visualizar estructura completa</h3>
+    <input id="catStart" placeholder="Desde subcategoría (opcional)">
+    <button id="btnShowTree">Generar reporte</button>
+
+    <h3>Libros por categoría o subcategoría</h3>
+    <input id="catBooks" placeholder="Nombre de la categoría">
+    <button id="btnShowCatBooks">Generar reporte</button>
+
+    <div id="treeOut"></div>
+  </section>
+
+  <!-- ═══════════════ LIBROS ═══════════════ -->
+  <section id="books" class="tab">
+    <h2>Gestión de libros</h2>
+
+    <h3>Registrar nuevo libro</h3>
+    <input id="isbn"     placeholder="ISBN" type="number">
+    <input id="title"    placeholder="Título">
+    <input id="author"   placeholder="Autor">
+    <input id="category" placeholder="Categoría">
+    <button id="btnAddBook" class="primary">Registrar</button>
+
+    <h3>Buscar / Eliminar libro por ISBN</h3>
+    <input id="searchIsbn" placeholder="ISBN" type="number">
+    <button id="btnFind">Buscar</button>
+    <button id="btnDelete">Eliminar</button>
+
+    <h3>Extremos del catálogo</h3>
+    <button id="btnMin">Menor ISBN</button>
+    <button id="btnMax">Mayor ISBN</button>
+
+    <pre id="booksOut"></pre>
+  </section>
+
+  <!-- ═══════════════ AYUDA ═══════════════ -->
+  <section id="help" class="tab">
+    <h2>Ayuda</h2>
+    <p><b>Estudiante:</b> Angel Balcárcel · Carné 202405840</p>
+    <p><b>Curso:</b> Introducción a la Programación y Computación 2</p>
+    <p><b>Proyecto:</b> Sistema de Librería (Proyecto 2)</p>
+    <p><b>Documentación:</b>
+      <a href="https://github.com/Ed-geek/IPC2_Proy02_202602_202405840" target="_blank">
+        Repositorio en GitHub
+      </a>
+    </p>
+  </section>
+
+</main>
+
+<script src="/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "nq4pyfqwKEwaTcGrXFb9KP5iyaGr4QsxDXeBmKfnrfg=",
+  "Source": "Proyecto2",
+  "BasePath": "_content/Proyecto2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Proyecto2/wwwroot",
+      "Source": "Proyecto2",
+      "ContentRoot": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/",
+      "BasePath": "_content/Proyecto2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/css/styles.css",
+      "SourceId": "Proyecto2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/",
+      "BasePath": "_content/Proyecto2",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    },
+    {
+      "Identity": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/index.html",
+      "SourceId": "Proyecto2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/",
+      "BasePath": "_content/Proyecto2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/js/app.js",
+      "SourceId": "Proyecto2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/",
+      "BasePath": "_content/Proyecto2",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.js"
+    }
+  ]
+}

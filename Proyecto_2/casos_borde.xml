@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Archivo para probar las validaciones y el linking diferido.
+  Resultado esperado al cargarlo sobre un catalogo vacio:
+    categorias agregadas   : 4  (Catalogo, Ciencias, Novelas, Fisica)
+    categorias rechazadas  : 2  (Ciencias duplicada, Huerfana sin padre)
+    libros agregados       : 2  (100, 250)
+    libros rechazados      : 3  (100 duplicado, categoria inexistente, ISBN no numerico)
+-->
+<config>
+  <listaCategorias>
+    <!-- Fisica se declara antes que su padre Ciencias: lo resuelve el linking diferido -->
+    <categoria padre="Ciencias">Fisica</categoria>
+    <categoria>Catalogo</categoria>
+    <categoria padre="Catalogo">Ciencias</categoria>
+    <categoria padre="Catalogo">Novelas</categoria>
+    <!-- rechazos -->
+    <categoria padre="Catalogo">Ciencias</categoria>        <!-- duplicada -->
+    <categoria padre="NoExiste">Huerfana</categoria>        <!-- padre inexistente -->
+  </listaCategorias>
+  <listaLibros>
+    <libro><ISBN>100</ISBN><titulo>Fisica General</titulo><autor>Marie Curie</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>250</ISBN><titulo>El Quijote</titulo><autor>Cervantes</autor><categoria>Novelas</categoria></libro>
+    <!-- rechazos -->
+    <libro><ISBN>100</ISBN><titulo>Repetido</titulo><autor>X</autor><categoria>Ciencias</categoria></libro>       <!-- ISBN duplicado -->
+    <libro><ISBN>300</ISBN><titulo>Sin hogar</titulo><autor>Y</autor><categoria>Inexistente</categoria></libro>   <!-- categoria inexistente -->
+    <libro><ISBN>9999999999999</ISBN><titulo>Desborda int</titulo><autor>Z</autor><categoria>Ciencias</categoria></libro> <!-- ISBN > int de C# -->
+  </listaLibros>
+</config>

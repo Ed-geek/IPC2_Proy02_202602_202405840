@@ -32,7 +32,7 @@ public class GraphvizService
         }
         catch
         {
-            // graphviz no instalado: dejamos el .dot igualmente
+           
         }
         return $"/reports/{baseName}.svg";
     }

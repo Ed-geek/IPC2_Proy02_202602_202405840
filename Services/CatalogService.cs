@@ -14,7 +14,13 @@ public class CatalogService
         Books.Clear();
     }
 
-    public bool AddCategory(string name, string? parent) => Categories.AddCategory(name, parent);
+    public bool AddCategory(string name, string? parent)
+    {
+        // Uso individual: 1 categoría
+        var arr = new CategoryInput[1] { new CategoryInput { Name = name, Parent = parent } };
+        var res = Categories.AddCategoriesBatch(arr, 1);
+        return res.CategoriesAdded == 1;
+    }
 
     public bool AddBook(Book book)
     {

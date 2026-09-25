@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <listaCategorias>
+    <categoria padre="Bases de datos">Ecologia</categoria>
+    <categoria padre="Bases de datos">Deportes</categoria>
+    <categoria padre="Cine">Estadistica</categoria>
+    <categoria padre="Zoologia">Viajes</categoria>
+    <categoria padre="Catalogo">Arte</categoria>
+    <categoria padre="Catalogo">Cocina</categoria>
+    <categoria padre="Ecologia">Cuento</categoria>
+    <categoria padre="Bases de datos">Sociologia</categoria>
+    <categoria padre="Viajes">Filosofia</categoria>
+    <categoria padre="Catalogo">Diseno</categoria>
+    <categoria padre="Bases de datos">Cine</categoria>
+    <categoria>Catalogo</categoria>
+    <categoria padre="Arte">Quimica</categoria>
+    <categoria padre="Arte">Linguistica</categoria>
+    <categoria padre="Cocina">Matematicas</categoria>
+    <categoria padre="Catalogo">Bases de datos</categoria>
+    <categoria padre="Diseno">Medicina</categoria>
+    <categoria padre="Ecologia">Novelas</categoria>
+    <categoria padre="Linguistica">Fisica</categoria>
+    <categoria padre="Catalogo">Zoologia</categoria>
+  </listaCategorias>
+  <listaLibros>
+    <libro><ISBN>1631311276</ISBN><titulo>La Breve Rio</titulo><autor>Valeria Gomez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>424802930</ISBN><titulo>Cronicas de Economia</titulo><autor>Rosa Rodriguez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>976062276</ISBN><titulo>La Ilustrado Cronica</titulo><autor>Tomas Castro</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>481179623</ISBN><titulo>El Historia Comparado de Educacion</titulo><autor>Camila Pena</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1535579402</ISBN><titulo>La Definitivo Enigma</titulo><autor>Luis Rojas</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>531307969</ISBN><titulo>Cronicas de Robotica</titulo><autor>Diego Lopez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>347064086</ISBN><titulo>El Clasico Legado</titulo><autor>Marta Flores</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>97556742</ISBN><titulo>Introduccion a Cocina</titulo><autor>Lucia Ibarra</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1025064392</ISBN><titulo>Origen del Medicina</titulo><autor>Ivan Cabrera</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1990676218</ISBN><titulo>Cronicas de Fisica</titulo><autor>Oscar Salazar</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>344013862</ISBN><titulo>Espejo del Cocina</titulo><autor>Ruben Ortiz</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>483068020</ISBN><titulo>El Perdido Teoria</titulo><autor>Ruben Reyes</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>620669482</ISBN><titulo>El Definitivo Rio</titulo><autor>Elena Rodriguez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>227078241</ISBN><titulo>Teoria de Ensayo</titulo><autor>Teresa Ramirez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1161823585</ISBN><titulo>Manual del Robotica</titulo><autor>Lucia Campos</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1671537243</ISBN><titulo>La General Memoria</titulo><autor>Elena Pena</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>984136964</ISBN><titulo>Cronicas de Algebra</titulo><autor>Marta Lopez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1827390802</ISBN><titulo>La Definitivo Historia</titulo><autor>Camila Lopez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1910893224</ISBN><titulo>El General Memoria</titulo><autor>Felipe Ortiz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1357119213</ISBN><titulo>El Sistema Perdido de Linguistica</titulo><autor>Ivan Garcia</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>556360757</ISBN><titulo>Cronicas de Teatro</titulo><autor>Ana Fuentes</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1590591755</ISBN><titulo>Introduccion a Zoologia</titulo><autor>Teresa Cruz</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>620512061</ISBN><titulo>Arquitectura: Viaje Completo</titulo><autor>Ana Ortiz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1766439217</ISBN><titulo>La Aplicado Manual</titulo><autor>Carlos Cruz</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>800908315</ISBN><titulo>Viajes: Sistema Oculto</titulo><autor>Luis Ramirez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1214307976</ISBN><titulo>La Comparado Cronica</titulo><autor>Ivan Martinez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1967885759</ISBN><titulo>La Practico Tratado</titulo><autor>Hector Rodriguez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1414694242</ISBN><titulo>El Puente Esencial de Fotografia</titulo><autor>Felipe Morales</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>841584094</ISBN><titulo>La Comparado Historia</titulo><autor>Lucia Aguilar</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1202819688</ISBN><titulo>La Esencial Viaje</titulo><autor>Ruben Navarro</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>849232776</ISBN><titulo>El Cronica Clasico de Astronomia</titulo><autor>Clara Flores</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1598358870</ISBN><titulo>Cronicas de Medicina</titulo><autor>Clara Ramirez</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>746976365</ISBN><titulo>La Silencioso Cronica</titulo><autor>Felipe Salazar</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1010667474</ISBN><titulo>El Manual Clasico de Astronomia</titulo><autor>Lucia Pena</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1219807042</ISBN><titulo>Quimica: Atlas Fundamental</titulo><autor>Elena Diaz</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>530651275</ISBN><titulo>Historia del Biografia</titulo><autor>Gabriela Pena</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1351699845</ISBN><titulo>El Diccionario Comparado de Fisica</titulo><autor>Tomas Lopez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1577038603</ISBN><titulo>El Codigo Fundamental de Medicina</titulo><autor>Andres Martinez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>473844662</ISBN><titulo>Rio de Ingenieria</titulo><autor>Clara Castro</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>344460949</ISBN><titulo>Introduccion a Quimica</titulo><autor>Clara Perez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1783672313</ISBN><titulo>Cronicas de Sociologia</titulo><autor>Andres Ramirez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1805229804</ISBN><titulo>Jardin del Robotica</titulo><autor>Sofia Castro</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>636834582</ISBN><titulo>Camino del Ecologia</titulo><autor>Luis Diaz</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>723602941</ISBN><titulo>Introduccion a Teatro</titulo><autor>Rosa Lopez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>866020293</ISBN><titulo>El Breve Jardin</titulo><autor>Felipe Martinez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>411842097</ISBN><titulo>El Camino Nocturno de Programacion</titulo><autor>Hector Diaz</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1070148108</ISBN><titulo>Codigo de Quimica</titulo><autor>Nadia Reyes</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>430001744</ISBN><titulo>Medicina: Jardin Fundamental</titulo><autor>Camila Aguilar</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>22152098</ISBN><titulo>Compendio del Fotografia</titulo><autor>Pablo Gomez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>374170495</ISBN><titulo>La Fundamental Puente</titulo><autor>Pablo Aguilar</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1052020039</ISBN><titulo>Sombra del Viajes</titulo><autor>Carlos Ibarra</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1953117297</ISBN><titulo>Historia del Algebra</titulo><autor>Luis Cabrera</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1810787800</ISBN><titulo>Cronicas de Arquitectura</titulo><autor>Camila Perez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>717871253</ISBN><titulo>El Ilustrado Sombra</titulo><autor>Carlos Ramirez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>152535675</ISBN><titulo>Memoria de Literatura</titulo><autor>Teresa Herrera</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1413085688</ISBN><titulo>El Origen Antiguo de Tecnologia</titulo><autor>Pablo Rodriguez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>536464997</ISBN><titulo>El Clasico Memoria</titulo><autor>Valeria Ortiz</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1602650002</ISBN><titulo>Botanica: Jardin Moderno</titulo><autor>Isabel Rodriguez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>931809118</ISBN><titulo>Viaje del Cuento</titulo><autor>Marta Garcia</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>764986371</ISBN><titulo>Cronicas de Tecnologia</titulo><autor>Luis Reyes</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1650836154</ISBN><titulo>El Aplicado Codigo</titulo><autor>Marta Reyes</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1032516792</ISBN><titulo>Educacion: Memoria Fundamental</titulo><autor>Teresa Salazar</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1122313622</ISBN><titulo>Cronicas de Filosofia</titulo><autor>Tomas Perez</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1560539688</ISBN><titulo>El Viaje Avanzado de Teatro</titulo><autor>Jorge Castro</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>55889706</ISBN><titulo>Espejo del Criptografia</titulo><autor>Rosa Pena</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>348063719</ISBN><titulo>Medicina: Memoria Fundamental</titulo><autor>Carlos Castro</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>2131048</ISBN><titulo>La Practico Atlas</titulo><autor>Diego Lopez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>939024088</ISBN><titulo>El Oculto Jardin</titulo><autor>Nadia Gomez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1087999890</ISBN><titulo>Cronicas de Cine</titulo><autor>Mario Perez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1544674673</ISBN><titulo>La Definitivo Camino</titulo><autor>Gabriela Vargas</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>903350623</ISBN><titulo>Robotica: Mapa Oculto</titulo><autor>Carlos Martinez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1680677458</ISBN><titulo>Atlas del Novelas</titulo><autor>Roberto Cabrera</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>117594240</ISBN><titulo>El Nocturno Secreto</titulo><autor>Sofia Morales</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1231308122</ISBN><titulo>El Codigo Comparado de Deportes</titulo><autor>Roberto Morales</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1574430909</ISBN><titulo>Introduccion a Sociologia</titulo><autor>Lucia Aguilar</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>404495239</ISBN><titulo>Cronicas de Tecnologia</titulo><autor>Paula Ibarra</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>473943563</ISBN><titulo>Atlas del Ingenieria</titulo><autor>Lucia Castro</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>202314993</ISBN><titulo>El Sistema Definitivo de Cine</titulo><autor>Valeria Salazar</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1088178844</ISBN><titulo>Mapa de Derecho</titulo><autor>Diego Cabrera</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1759040509</ISBN><titulo>Novelas: Mapa Comparado</titulo><autor>Hector Rojas</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>168375924</ISBN><titulo>Introduccion a Historia</titulo><autor>Carlos Vargas</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>519458307</ISBN><titulo>Antropologia: Tratado Oculto</titulo><autor>Ivan Herrera</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1156438957</ISBN><titulo>Cronicas de Quimica</titulo><autor>Andres Gomez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>730075301</ISBN><titulo>Introduccion a Antropologia</titulo><autor>Mario Pena</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>945138888</ISBN><titulo>Mapa de Cuento</titulo><autor>Luis Vargas</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>989201398</ISBN><titulo>El Oculto Legado</titulo><autor>Jorge Ortiz</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>819724095</ISBN><titulo>Puente del Linguistica</titulo><autor>Luis Diaz</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>925638511</ISBN><titulo>La Silencioso Compendio</titulo><autor>Oscar Cabrera</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>517487851</ISBN><titulo>Introduccion a Historia</titulo><autor>Clara Castro</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>706095028</ISBN><titulo>Sistema del Redes</titulo><autor>Elena Diaz</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>552652305</ISBN><titulo>La Nocturno Enigma</titulo><autor>Gabriela Salazar</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>568163568</ISBN><titulo>El Memoria Clasico de Arte</titulo><autor>Isabel Ramirez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1962580829</ISBN><titulo>El Comparado Teoria</titulo><autor>Felipe Ortiz</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>585266230</ISBN><titulo>Manual del Cuento</titulo><autor>Rosa Vargas</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>138681015</ISBN><titulo>El Legado General de Teatro</titulo><autor>Jorge Morales</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1842270691</ISBN><titulo>Introduccion a Ingenieria</titulo><autor>Carlos Garcia</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>788191685</ISBN><titulo>El Aplicado Codigo</titulo><autor>Luis Diaz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>336585271</ISBN><titulo>La Ilustrado Sistema</titulo><autor>Camila Campos</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1214441598</ISBN><titulo>Enigma del Geometria</titulo><autor>Clara Campos</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>325424725</ISBN><titulo>Sombra de Comic</titulo><autor>Diego Aguilar</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>73704976</ISBN><titulo>La Completo Atlas</titulo><autor>Mario Reyes</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1513048218</ISBN><titulo>El Ilustrado Cronica</titulo><autor>Nadia Diaz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>549691045</ISBN><titulo>Introduccion a Novelas</titulo><autor>Jorge Herrera</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1877132849</ISBN><titulo>Secreto de Cine</titulo><autor>Tomas Diaz</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1112001475</ISBN><titulo>Mapa de Arte</titulo><autor>Paula Morales</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>463691763</ISBN><titulo>El Breve Legado</titulo><autor>Hector Vargas</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>376712232</ISBN><titulo>El Atlas Esencial de Bases de datos</titulo><autor>Nadia Vargas</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>135959813</ISBN><titulo>Geometria: Diccionario Moderno</titulo><autor>Paula Lopez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1950976922</ISBN><titulo>Legado del Comic</titulo><autor>Hector Rodriguez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1442074790</ISBN><titulo>La Practico Atlas</titulo><autor>Roberto Vargas</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1444169786</ISBN><titulo>El Metodo General de Matematicas</titulo><autor>Gabriela Salazar</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1706884178</ISBN><titulo>El Sombra Avanzado de Sociologia</titulo><autor>Valeria Aguilar</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1323997076</ISBN><titulo>La Practico Rio</titulo><autor>Roberto Rodriguez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>626046869</ISBN><titulo>El Aplicado Camino</titulo><autor>Elena Ibarra</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1959337474</ISBN><titulo>El Clasico Enigma</titulo><autor>Camila Mendez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>642062631</ISBN><titulo>Compendio del Viajes</titulo><autor>Clara Reyes</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1456042284</ISBN><titulo>El Elemental Espejo</titulo><autor>Marta Flores</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>628312782</ISBN><titulo>El Tratado Clasico de Geografia</titulo><autor>Andres Cabrera</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>724358841</ISBN><titulo>Cronicas de Historia</titulo><autor>Isabel Ortiz</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1393224014</ISBN><titulo>La Elemental Origen</titulo><autor>Rosa Reyes</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1848980268</ISBN><titulo>El General Puente</titulo><autor>Clara Mendez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>497964977</ISBN><titulo>El Cronica Aplicado de Tecnologia</titulo><autor>Oscar Flores</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1727631209</ISBN><titulo>Introduccion a Arte</titulo><autor>Ruben Ramirez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1368730285</ISBN><titulo>La Fundamental Enigma</titulo><autor>Valeria Diaz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1620026016</ISBN><titulo>El Manual Esencial de Teatro</titulo><autor>Isabel Navarro</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>584984058</ISBN><titulo>El Viaje Perdido de Quimica</titulo><autor>Jorge Aguilar</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>681340531</ISBN><titulo>El Esencial Enigma</titulo><autor>Oscar Perez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1277241665</ISBN><titulo>El Sombra Infinito de Biografia</titulo><autor>Valeria Perez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1040328179</ISBN><titulo>Cronicas de Fotografia</titulo><autor>Luis Flores</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1899019173</ISBN><titulo>El Puente Oculto de Medicina</titulo><autor>Elena Morales</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1003890975</ISBN><titulo>Programacion: Tratado Antiguo</titulo><autor>Ana Vargas</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>636372595</ISBN><titulo>Cronicas de Ecologia</titulo><autor>Ruben Pena</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>803756080</ISBN><titulo>Enigma de Cine</titulo><autor>Isabel Vargas</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1404313402</ISBN><titulo>Sistema de Derecho</titulo><autor>Diego Salazar</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>532121163</ISBN><titulo>Introduccion a Musica</titulo><autor>Roberto Mendez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>963869051</ISBN><titulo>La Perdido Espejo</titulo><autor>Mario Ibarra</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>240859732</ISBN><titulo>El Camino Nocturno de Diseno</titulo><autor>Tomas Mendez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1261213315</ISBN><titulo>La Clasico Sombra</titulo><autor>Ivan Cabrera</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>581996507</ISBN><titulo>Antropologia: Teoria Elemental</titulo><autor>Ivan Perez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1997465675</ISBN><titulo>Codigo del Redes</titulo><autor>Paula Martinez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>860028973</ISBN><titulo>El Comparado Sombra</titulo><autor>Luis Martinez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>472458939</ISBN><titulo>Viaje del Derecho</titulo><autor>Elena Cabrera</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1735847637</ISBN><titulo>El Secreto Silencioso de Genetica</titulo><autor>Clara Mendez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>261386925</ISBN><titulo>Arte: Memoria Silencioso</titulo><autor>Lucia Vargas</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>697822108</ISBN><titulo>Diccionario de Arte</titulo><autor>Ivan Ibarra</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>512971934</ISBN><titulo>La Breve Sombra</titulo><autor>Ivan Castro</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1452765363</ISBN><titulo>Introduccion a Criptografia</titulo><autor>Clara Mendez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>868434501</ISBN><titulo>La Elemental Origen</titulo><autor>Lucia Reyes</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1539018835</ISBN><titulo>Viaje del Derecho</titulo><autor>Ruben Navarro</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1679952732</ISBN><titulo>La Perdido Viaje</titulo><autor>Marta Gomez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>406742803</ISBN><titulo>La Ilustrado Cronica</titulo><autor>Roberto Castro</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1887731495</ISBN><titulo>El Practico Mapa</titulo><autor>Diego Herrera</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1436530584</ISBN><titulo>Cronicas de Ecologia</titulo><autor>Jorge Pena</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1810603812</ISBN><titulo>Introduccion a Musica</titulo><autor>Andres Rojas</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1173928193</ISBN><titulo>Cronicas de Tecnologia</titulo><autor>Clara Flores</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1868472195</ISBN><titulo>El Elemental Rio</titulo><autor>Teresa Martinez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1719335009</ISBN><titulo>Cronicas de Diseno</titulo><autor>Nadia Ramirez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1270179516</ISBN><titulo>El Mapa Elemental de Derecho</titulo><autor>Oscar Castro</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1057984642</ISBN><titulo>El Origen Avanzado de Derecho</titulo><autor>Gabriela Perez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>770936569</ISBN><titulo>Teoria de Psicologia</titulo><autor>Mario Rojas</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>252169716</ISBN><titulo>La Definitivo Atlas</titulo><autor>Jorge Martinez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>557038056</ISBN><titulo>El Perdido Jardin</titulo><autor>Ana Reyes</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>262886225</ISBN><titulo>Derecho: Camino General</titulo><autor>Diego Herrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1344789067</ISBN><titulo>Introduccion a Fisica</titulo><autor>Marta Flores</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>702945280</ISBN><titulo>El Breve Tratado</titulo><autor>Valeria Aguilar</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>895685685</ISBN><titulo>El Clasico Teoria</titulo><autor>Paula Castro</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1510956398</ISBN><titulo>Introduccion a Programacion</titulo><autor>Carlos Salazar</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1902131690</ISBN><titulo>La Comparado Rio</titulo><autor>Oscar Reyes</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1525626907</ISBN><titulo>Cuento: Secreto Practico</titulo><autor>Elena Reyes</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1765228242</ISBN><titulo>Jardin de Historia</titulo><autor>Ruben Ibarra</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1017664602</ISBN><titulo>El Enigma Avanzado de Tecnologia</titulo><autor>Camila Campos</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1434944494</ISBN><titulo>La Perdido Puente</titulo><autor>Oscar Campos</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>547627318</ISBN><titulo>Psicologia: Viaje Fundamental</titulo><autor>Tomas Martinez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>847657693</ISBN><titulo>Rio de Literatura</titulo><autor>Sofia Morales</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1958018877</ISBN><titulo>El Tratado General de Criptografia</titulo><autor>Teresa Rojas</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>308501412</ISBN><titulo>Cronicas de Psicologia</titulo><autor>Felipe Reyes</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>366852703</ISBN><titulo>Arte: Viaje Avanzado</titulo><autor>Clara Salazar</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1552725152</ISBN><titulo>Cronicas de Linguistica</titulo><autor>Felipe Pena</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1323683025</ISBN><titulo>Ensayo: Secreto Oculto</titulo><autor>Gabriela Perez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>724595587</ISBN><titulo>Introduccion a Novelas</titulo><autor>Carlos Morales</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>933314000</ISBN><titulo>Cronicas de Sociologia</titulo><autor>Rosa Cruz</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>33047580</ISBN><titulo>El Comparado Cronica</titulo><autor>Felipe Morales</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>244192407</ISBN><titulo>Sistema de Cocina</titulo><autor>Isabel Castro</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1700846338</ISBN><titulo>Genetica: Sistema Perdido</titulo><autor>Camila Cabrera</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>803290668</ISBN><titulo>Introduccion a Historia</titulo><autor>Valeria Aguilar</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1900560753</ISBN><titulo>El Sistema Comparado de Matematicas</titulo><autor>Gabriela Flores</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>386705474</ISBN><titulo>Cronicas de Ingenieria</titulo><autor>Jorge Ibarra</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1769518583</ISBN><titulo>Introduccion a Literatura</titulo><autor>Clara Cruz</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>758842546</ISBN><titulo>El Jardin Clasico de Medicina</titulo><autor>Isabel Ibarra</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>702821324</ISBN><titulo>El Secreto Definitivo de Genetica</titulo><autor>Pablo Perez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>22716442</ISBN><titulo>La Perdido Espejo</titulo><autor>Paula Pena</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>157437513</ISBN><titulo>El Aplicado Memoria</titulo><autor>Camila Cabrera</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1009313108</ISBN><titulo>Manual de Zoologia</titulo><autor>Lucia Martinez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1768244896</ISBN><titulo>Cronicas de Fisica</titulo><autor>Roberto Campos</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1887179179</ISBN><titulo>La Fundamental Manual</titulo><autor>Diego Ortiz</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>342658197</ISBN><titulo>Introduccion a Teatro</titulo><autor>Gabriela Diaz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1474206199</ISBN><titulo>Introduccion a Poesia</titulo><autor>Valeria Vargas</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1844695838</ISBN><titulo>El Atlas General de Comic</titulo><autor>Carlos Fuentes</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1059514847</ISBN><titulo>El Puente Silencioso de Bases de datos</titulo><autor>Tomas Ibarra</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1189288152</ISBN><titulo>La Avanzado Puente</titulo><autor>Jorge Perez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>651086538</ISBN><titulo>Secreto de Sociologia</titulo><autor>Carlos Gomez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>482154499</ISBN><titulo>El Atlas Perdido de Quimica</titulo><autor>Marta Fuentes</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>227969135</ISBN><titulo>Derecho: Jardin Practico</titulo><autor>Sofia Garcia</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1737111851</ISBN><titulo>Introduccion a Diseno</titulo><autor>Felipe Ramirez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1697942367</ISBN><titulo>El Fundamental Historia</titulo><autor>Ivan Salazar</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>177588604</ISBN><titulo>Sistema del Ciencias</titulo><autor>Ruben Reyes</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>189182117</ISBN><titulo>Introduccion a Comic</titulo><autor>Diego Rodriguez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1640300954</ISBN><titulo>La Completo Metodo</titulo><autor>Jorge Lopez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1698112952</ISBN><titulo>Teatro: Camino Nocturno</titulo><autor>Felipe Campos</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>45278016</ISBN><titulo>Cronicas de Fotografia</titulo><autor>Tomas Rodriguez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>460986776</ISBN><titulo>El Rio Oculto de Botanica</titulo><autor>Valeria Flores</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1476311992</ISBN><titulo>Comic: Espejo Moderno</titulo><autor>Pablo Ortiz</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>39923617</ISBN><titulo>El Historia Antiguo de Literatura</titulo><autor>Ana Rojas</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1054609727</ISBN><titulo>La General Sistema</titulo><autor>Roberto Martinez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1927710796</ISBN><titulo>Ensayo: Camino Perdido</titulo><autor>Camila Reyes</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>409898993</ISBN><titulo>La Breve Enigma</titulo><autor>Felipe Reyes</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>340803634</ISBN><titulo>El Breve Codigo</titulo><autor>Ana Gomez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1750546131</ISBN><titulo>Memoria del Arquitectura</titulo><autor>Rosa Campos</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1611161355</ISBN><titulo>Puente del Viajes</titulo><autor>Tomas Martinez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>877363137</ISBN><titulo>Secreto del Astronomia</titulo><autor>Rosa Ibarra</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1193191984</ISBN><titulo>Cocina: Jardin General</titulo><autor>Marta Mendez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1708068783</ISBN><titulo>El Esencial Enigma</titulo><autor>Roberto Herrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1636697588</ISBN><titulo>Mapa del Arquitectura</titulo><autor>Andres Perez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>207332294</ISBN><titulo>Introduccion a Tecnologia</titulo><autor>Elena Perez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1890801349</ISBN><titulo>La Antiguo Camino</titulo><autor>Carlos Aguilar</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1289685501</ISBN><titulo>El Rio Clasico de Ensayo</titulo><autor>Clara Ramirez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>25250611</ISBN><titulo>El Fundamental Manual</titulo><autor>Andres Flores</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>87067600</ISBN><titulo>El Mapa Fundamental de Zoologia</titulo><autor>Nadia Ibarra</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1257611566</ISBN><titulo>La Practico Puente</titulo><autor>Ruben Rojas</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1009780167</ISBN><titulo>Cronicas de Novelas</titulo><autor>Diego Martinez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>452094902</ISBN><titulo>Cronicas de Antropologia</titulo><autor>Gabriela Vargas</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1906462309</ISBN><titulo>Atlas del Estadistica</titulo><autor>Paula Campos</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1932180049</ISBN><titulo>Bases de datos: Cronica General</titulo><autor>Hector Diaz</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1323755997</ISBN><titulo>Codigo del Zoologia</titulo><autor>Paula Diaz</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1712762936</ISBN><titulo>Mapa del Teatro</titulo><autor>Sofia Castro</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1003745173</ISBN><titulo>El Origen Elemental de Teatro</titulo><autor>Ruben Rodriguez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1434166970</ISBN><titulo>Historia del Estadistica</titulo><autor>Felipe Navarro</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1761937554</ISBN><titulo>Biologia: Espejo Comparado</titulo><autor>Elena Cabrera</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1630966117</ISBN><titulo>Introduccion a Arte</titulo><autor>Paula Perez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>525540370</ISBN><titulo>Codigo del Arquitectura</titulo><autor>Sofia Pena</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>769845482</ISBN><titulo>La Avanzado Origen</titulo><autor>Luis Pena</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>438281648</ISBN><titulo>Puente del Ensayo</titulo><autor>Gabriela Ramirez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>92810176</ISBN><titulo>Introduccion a Fisica</titulo><autor>Carlos Pena</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>883255965</ISBN><titulo>Introduccion a Cuento</titulo><autor>Elena Ortiz</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1792143435</ISBN><titulo>Memoria de Ensayo</titulo><autor>Teresa Vargas</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1940994688</ISBN><titulo>La General Enigma</titulo><autor>Roberto Morales</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>98236412</ISBN><titulo>Musica: Jardin Oculto</titulo><autor>Sofia Fuentes</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1194554214</ISBN><titulo>Geometria: Compendio Perdido</titulo><autor>Gabriela Martinez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1943937437</ISBN><titulo>Enigma del Geometria</titulo><autor>Andres Navarro</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>329114710</ISBN><titulo>El Oculto Viaje</titulo><autor>Hector Gomez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1035404199</ISBN><titulo>Geometria: Espejo Aplicado</titulo><autor>Ruben Campos</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1220865197</ISBN><titulo>El Viaje Practico de Ensayo</titulo><autor>Pablo Ibarra</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>745482468</ISBN><titulo>Cronicas de Fotografia</titulo><autor>Camila Rojas</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>904247503</ISBN><titulo>El Elemental Jardin</titulo><autor>Teresa Vargas</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>574529458</ISBN><titulo>La Nocturno Sombra</titulo><autor>Clara Ortiz</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1221075223</ISBN><titulo>Enigma de Historia</titulo><autor>Oscar Rodriguez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1915538010</ISBN><titulo>El General Codigo</titulo><autor>Diego Aguilar</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1530323110</ISBN><titulo>El Clasico Viaje</titulo><autor>Paula Garcia</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1615956100</ISBN><titulo>La Infinito Puente</titulo><autor>Lucia Campos</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>387430699</ISBN><titulo>Teatro: Historia Ilustrado</titulo><autor>Carlos Ibarra</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>823825909</ISBN><titulo>Introduccion a Zoologia</titulo><autor>Oscar Flores</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1073005451</ISBN><titulo>La Esencial Historia</titulo><autor>Isabel Pena</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1424244912</ISBN><titulo>Atlas de Algebra</titulo><autor>Teresa Garcia</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>275972890</ISBN><titulo>Legado del Historia</titulo><autor>Nadia Ortiz</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>990254906</ISBN><titulo>Cronicas de Estadistica</titulo><autor>Nadia Fuentes</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>934040531</ISBN><titulo>La Antiguo Teoria</titulo><autor>Valeria Pena</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1149682260</ISBN><titulo>El Clasico Sistema</titulo><autor>Lucia Salazar</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>70013212</ISBN><titulo>Espejo de Quimica</titulo><autor>Marta Rojas</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>60233358</ISBN><titulo>Metodo de Medicina</titulo><autor>Mario Rodriguez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1680512129</ISBN><titulo>Cronicas de Cine</titulo><autor>Carlos Garcia</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>395796725</ISBN><titulo>La Elemental Mapa</titulo><autor>Isabel Navarro</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1313024937</ISBN><titulo>El Completo Rio</titulo><autor>Felipe Castro</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>56087687</ISBN><titulo>Introduccion a Quimica</titulo><autor>Paula Campos</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>229602324</ISBN><titulo>El Breve Memoria</titulo><autor>Elena Herrera</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>728977682</ISBN><titulo>Tratado del Cocina</titulo><autor>Clara Gomez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1516703535</ISBN><titulo>La Comparado Rio</titulo><autor>Nadia Salazar</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>508545742</ISBN><titulo>El Practico Atlas</titulo><autor>Marta Rodriguez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1318361751</ISBN><titulo>Cronicas de Economia</titulo><autor>Hector Lopez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>779854384</ISBN><titulo>El Elemental Rio</titulo><autor>Jorge Salazar</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1626338106</ISBN><titulo>Introduccion a Bases de datos</titulo><autor>Sofia Campos</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>164330175</ISBN><titulo>Cronicas de Educacion</titulo><autor>Oscar Aguilar</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1239716238</ISBN><titulo>El Completo Sombra</titulo><autor>Luis Ramirez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>998819517</ISBN><titulo>El Enigma Avanzado de Cine</titulo><autor>Oscar Vargas</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1713108849</ISBN><titulo>Cronicas de Cine</titulo><autor>Mario Herrera</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>376581877</ISBN><titulo>El Metodo Comparado de Diseno</titulo><autor>Roberto Ramirez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1106206605</ISBN><titulo>Algebra: Historia Avanzado</titulo><autor>Tomas Cruz</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>940894698</ISBN><titulo>Compendio del Deportes</titulo><autor>Roberto Ramirez</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>460012443</ISBN><titulo>Cronicas de Novelas</titulo><autor>Jorge Campos</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1381371874</ISBN><titulo>El Aplicado Enigma</titulo><autor>Isabel Salazar</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1058464716</ISBN><titulo>Introduccion a Educacion</titulo><autor>Marta Aguilar</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1049939558</ISBN><titulo>Introduccion a Fotografia</titulo><autor>Teresa Martinez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1774997899</ISBN><titulo>Memoria de Ciencias</titulo><autor>Oscar Navarro</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>433315725</ISBN><titulo>Jardin de Arquitectura</titulo><autor>Elena Martinez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>189579511</ISBN><titulo>Tratado de Ciencias</titulo><autor>Camila Ortiz</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1435098905</ISBN><titulo>La Avanzado Camino</titulo><autor>Diego Ortiz</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1915198259</ISBN><titulo>El Enigma Perdido de Matematicas</titulo><autor>Pablo Rodriguez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>212179801</ISBN><titulo>Camino del Fotografia</titulo><autor>Valeria Flores</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1052131331</ISBN><titulo>Novelas: Memoria Avanzado</titulo><autor>Jorge Diaz</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>777008908</ISBN><titulo>La Oculto Manual</titulo><autor>Paula Rodriguez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>280701926</ISBN><titulo>Enigma de Derecho</titulo><autor>Roberto Ortiz</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>2476836</ISBN><titulo>Cronicas de Criptografia</titulo><autor>Elena Cruz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>339272343</ISBN><titulo>Comic: Legado Nocturno</titulo><autor>Rosa Campos</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1322217478</ISBN><titulo>Manual del Psicologia</titulo><autor>Andres Cabrera</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1748015965</ISBN><titulo>La Infinito Tratado</titulo><autor>Paula Flores</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1543686106</ISBN><titulo>Secreto del Deportes</titulo><autor>Lucia Campos</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>391182238</ISBN><titulo>La Infinito Espejo</titulo><autor>Carlos Vargas</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>779293668</ISBN><titulo>El Completo Sistema</titulo><autor>Rosa Rojas</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>663935024</ISBN><titulo>Rio del Ensayo</titulo><autor>Sofia Aguilar</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1978387979</ISBN><titulo>Introduccion a Antropologia</titulo><autor>Isabel Cabrera</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>627621059</ISBN><titulo>Introduccion a Biografia</titulo><autor>Camila Fuentes</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>599624904</ISBN><titulo>La Elemental Historia</titulo><autor>Rosa Fuentes</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>774824705</ISBN><titulo>El Rio Breve de Programacion</titulo><autor>Lucia Salazar</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1142940329</ISBN><titulo>Manual del Viajes</titulo><autor>Carlos Ibarra</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1412681808</ISBN><titulo>Fotografia: Codigo Fundamental</titulo><autor>Felipe Garcia</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1463800162</ISBN><titulo>El Completo Historia</titulo><autor>Tomas Aguilar</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>74034498</ISBN><titulo>Cronicas de Viajes</titulo><autor>Ruben Salazar</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>77285115</ISBN><titulo>Introduccion a Diseno</titulo><autor>Ivan Lopez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>423654676</ISBN><titulo>Manual de Ingenieria</titulo><autor>Mario Lopez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>464361492</ISBN><titulo>El Antiguo Jardin</titulo><autor>Roberto Lopez</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>632868212</ISBN><titulo>El Tratado General de Astronomia</titulo><autor>Rosa Diaz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1395789121</ISBN><titulo>El Moderno Manual</titulo><autor>Isabel Ramirez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>722222153</ISBN><titulo>La Definitivo Memoria</titulo><autor>Lucia Rodriguez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1858777570</ISBN><titulo>El Jardin Practico de Botanica</titulo><autor>Diego Aguilar</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1716781618</ISBN><titulo>Secreto de Tecnologia</titulo><autor>Diego Rojas</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1075412353</ISBN><titulo>La Breve Codigo</titulo><autor>Gabriela Reyes</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1777512512</ISBN><titulo>El Historia General de Economia</titulo><autor>Felipe Perez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1470031082</ISBN><titulo>Cronicas de Musica</titulo><autor>Pablo Aguilar</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1697259215</ISBN><titulo>Cronicas de Medicina</titulo><autor>Ruben Pena</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1736666044</ISBN><titulo>Introduccion a Estadistica</titulo><autor>Mario Aguilar</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1480162995</ISBN><titulo>El Ilustrado Mapa</titulo><autor>Elena Ibarra</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>406620325</ISBN><titulo>Introduccion a Ensayo</titulo><autor>Andres Martinez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1770391205</ISBN><titulo>Cocina: Origen Silencioso</titulo><autor>Ruben Campos</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1333512856</ISBN><titulo>Cronicas de Genetica</titulo><autor>Pablo Castro</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1106342004</ISBN><titulo>Cronicas de Ensayo</titulo><autor>Jorge Martinez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>761902830</ISBN><titulo>Biografia: Puente General</titulo><autor>Lucia Fuentes</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>919927606</ISBN><titulo>La Nocturno Sistema</titulo><autor>Valeria Reyes</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>770226681</ISBN><titulo>Astronomia: Origen General</titulo><autor>Marta Campos</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1854881140</ISBN><titulo>Cronicas de Algebra</titulo><autor>Mario Campos</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1042981114</ISBN><titulo>El Definitivo Diccionario</titulo><autor>Gabriela Ibarra</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>103311332</ISBN><titulo>Viaje del Historia</titulo><autor>Ivan Campos</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1328458446</ISBN><titulo>El Origen Comparado de Novelas</titulo><autor>Carlos Garcia</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1373825584</ISBN><titulo>Cronicas de Cuento</titulo><autor>Hector Salazar</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1139768462</ISBN><titulo>Historia: Sistema Avanzado</titulo><autor>Pablo Salazar</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>128357589</ISBN><titulo>Introduccion a Sociologia</titulo><autor>Ivan Garcia</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>573431286</ISBN><titulo>Introduccion a Viajes</titulo><autor>Pablo Morales</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1807666309</ISBN><titulo>Cronica del Fotografia</titulo><autor>Andres Perez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1898792160</ISBN><titulo>Cronicas de Fisica</titulo><autor>Andres Vargas</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1723470011</ISBN><titulo>Historia del Derecho</titulo><autor>Roberto Herrera</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>120127849</ISBN><titulo>Cronicas de Derecho</titulo><autor>Paula Mendez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1794926165</ISBN><titulo>El Puente Elemental de Geometria</titulo><autor>Felipe Navarro</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>932125158</ISBN><titulo>Introduccion a Estadistica</titulo><autor>Oscar Morales</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1223947719</ISBN><titulo>Derecho: Camino Silencioso</titulo><autor>Camila Cabrera</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>901409293</ISBN><titulo>La General Viaje</titulo><autor>Diego Morales</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1479011166</ISBN><titulo>Musica: Teoria Nocturno</titulo><autor>Felipe Lopez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1255199446</ISBN><titulo>El Historia Nocturno de Linguistica</titulo><autor>Camila Gomez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>551892348</ISBN><titulo>Teoria del Arquitectura</titulo><autor>Tomas Cruz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>646402532</ISBN><titulo>Diccionario del Sociologia</titulo><autor>Ana Vargas</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1231646691</ISBN><titulo>Cronicas de Historia</titulo><autor>Rosa Aguilar</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1928981703</ISBN><titulo>La Elemental Compendio</titulo><autor>Teresa Flores</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>6014008</ISBN><titulo>La Antiguo Legado</titulo><autor>Lucia Ortiz</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1508476941</ISBN><titulo>Musica: Codigo Antiguo</titulo><autor>Ana Vargas</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>664561877</ISBN><titulo>Historia: Legado Definitivo</titulo><autor>Tomas Diaz</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1386252957</ISBN><titulo>La Nocturno Manual</titulo><autor>Sofia Castro</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1986670938</ISBN><titulo>Sociologia: Rio Esencial</titulo><autor>Andres Salazar</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1382532625</ISBN><titulo>La Completo Teoria</titulo><autor>Isabel Reyes</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1618040245</ISBN><titulo>El Atlas Comparado de Novelas</titulo><autor>Andres Castro</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1653217289</ISBN><titulo>Origen del Estadistica</titulo><autor>Sofia Martinez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>230747440</ISBN><titulo>La Antiguo Tratado</titulo><autor>Teresa Lopez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>156706840</ISBN><titulo>Introduccion a Linguistica</titulo><autor>Camila Salazar</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1922725397</ISBN><titulo>El Cronica Oculto de Filosofia</titulo><autor>Isabel Reyes</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>527906065</ISBN><titulo>Atlas de Tecnologia</titulo><autor>Hector Herrera</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>300814012</ISBN><titulo>Introduccion a Biografia</titulo><autor>Ruben Flores</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>73955864</ISBN><titulo>El Silencioso Metodo</titulo><autor>Lucia Flores</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>140171588</ISBN><titulo>El Atlas Moderno de Fisica</titulo><autor>Rosa Lopez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>939957681</ISBN><titulo>Cronicas de Fisica</titulo><autor>Sofia Ramirez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1889975268</ISBN><titulo>El Ilustrado Enigma</titulo><autor>Valeria Perez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>942578443</ISBN><titulo>Fotografia: Compendio Completo</titulo><autor>Paula Fuentes</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1916094862</ISBN><titulo>Rio del Arte</titulo><autor>Ruben Rodriguez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1699114107</ISBN><titulo>El Antiguo Atlas</titulo><autor>Elena Ortiz</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1670792807</ISBN><titulo>Diccionario del Deportes</titulo><autor>Pablo Garcia</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>259400714</ISBN><titulo>La General Codigo</titulo><autor>Pablo Castro</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>847514179</ISBN><titulo>Historia del Ensayo</titulo><autor>Camila Morales</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>613159382</ISBN><titulo>El Avanzado Camino</titulo><autor>Jorge Diaz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1277163443</ISBN><titulo>Introduccion a Economia</titulo><autor>Sofia Lopez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>657841427</ISBN><titulo>El Atlas Practico de Botanica</titulo><autor>Nadia Castro</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1803463659</ISBN><titulo>Compendio del Robotica</titulo><autor>Tomas Diaz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>452961957</ISBN><titulo>Cronicas de Biografia</titulo><autor>Rosa Campos</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1820611465</ISBN><titulo>El Enigma Elemental de Ecologia</titulo><autor>Valeria Garcia</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>659101263</ISBN><titulo>Introduccion a Zoologia</titulo><autor>Ruben Flores</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1913844805</ISBN><titulo>Codigo de Biologia</titulo><autor>Felipe Ortiz</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1469174591</ISBN><titulo>El Viaje Perdido de Cocina</titulo><autor>Diego Lopez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1040880209</ISBN><titulo>Introduccion a Psicologia</titulo><autor>Luis Rodriguez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1484105021</ISBN><titulo>Atlas del Cocina</titulo><autor>Clara Campos</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1967163018</ISBN><titulo>Cuento: Sombra Clasico</titulo><autor>Camila Pena</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>978021168</ISBN><titulo>Sistema del Derecho</titulo><autor>Diego Ortiz</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>242876957</ISBN><titulo>Genetica: Mapa Nocturno</titulo><autor>Roberto Vargas</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1080794636</ISBN><titulo>El Avanzado Legado</titulo><autor>Jorge Reyes</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1630912101</ISBN><titulo>Cronicas de Filosofia</titulo><autor>Carlos Martinez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>761656142</ISBN><titulo>El Sistema Avanzado de Estadistica</titulo><autor>Tomas Perez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>660961478</ISBN><titulo>Diseno: Enigma Perdido</titulo><autor>Ruben Campos</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>887523869</ISBN><titulo>Ecologia: Origen Completo</titulo><autor>Sofia Morales</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>342398921</ISBN><titulo>El Memoria Definitivo de Tecnologia</titulo><autor>Elena Gomez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>361921114</ISBN><titulo>El Tratado Ilustrado de Ingenieria</titulo><autor>Elena Perez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1844530013</ISBN><titulo>Memoria del Cine</titulo><autor>Lucia Fuentes</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>746643851</ISBN><titulo>Introduccion a Programacion</titulo><autor>Jorge Salazar</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>585346705</ISBN><titulo>Derecho: Jardin Breve</titulo><autor>Clara Garcia</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>675008481</ISBN><titulo>Tratado del Psicologia</titulo><autor>Paula Aguilar</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1594137940</ISBN><titulo>Economia: Metodo Nocturno</titulo><autor>Diego Rodriguez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>501888943</ISBN><titulo>El Perdido Camino</titulo><autor>Pablo Gomez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1443875507</ISBN><titulo>Introduccion a Historia</titulo><autor>Paula Campos</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1760763726</ISBN><titulo>Camino de Teatro</titulo><autor>Nadia Aguilar</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1055511968</ISBN><titulo>Cronicas de Antropologia</titulo><autor>Elena Ibarra</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>376276448</ISBN><titulo>Cronicas de Medicina</titulo><autor>Sofia Ramirez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1623307624</ISBN><titulo>El Teoria Completo de Educacion</titulo><autor>Luis Vargas</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1871878276</ISBN><titulo>Introduccion a Antropologia</titulo><autor>Ana Castro</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>966882983</ISBN><titulo>Viaje del Historia</titulo><autor>Nadia Garcia</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1274258201</ISBN><titulo>Sombra de Genetica</titulo><autor>Diego Herrera</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>570586076</ISBN><titulo>Codigo de Fisica</titulo><autor>Ruben Cruz</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>608879227</ISBN><titulo>El Practico Manual</titulo><autor>Paula Navarro</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>297114010</ISBN><titulo>Cronicas de Psicologia</titulo><autor>Lucia Aguilar</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>192681962</ISBN><titulo>Cronicas de Bases de datos</titulo><autor>Ana Salazar</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>407015604</ISBN><titulo>Introduccion a Viajes</titulo><autor>Clara Diaz</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1931620692</ISBN><titulo>Historia de Zoologia</titulo><autor>Marta Diaz</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1105676507</ISBN><titulo>Cronicas de Matematicas</titulo><autor>Elena Morales</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>808389728</ISBN><titulo>Cronicas de Ingenieria</titulo><autor>Camila Fuentes</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1869526266</ISBN><titulo>El Practico Jardin</titulo><autor>Jorge Navarro</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1886126892</ISBN><titulo>El Aplicado Viaje</titulo><autor>Mario Garcia</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1794370114</ISBN><titulo>La Definitivo Atlas</titulo><autor>Valeria Salazar</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1979198021</ISBN><titulo>Cronicas de Ecologia</titulo><autor>Felipe Campos</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>681757922</ISBN><titulo>La Oculto Metodo</titulo><autor>Gabriela Ibarra</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1934220360</ISBN><titulo>Jardin de Diseno</titulo><autor>Hector Garcia</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1001805158</ISBN><titulo>El Enigma Nocturno de Ensayo</titulo><autor>Rosa Flores</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>928071473</ISBN><titulo>Introduccion a Deportes</titulo><autor>Jorge Ramirez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>832443945</ISBN><titulo>Introduccion a Educacion</titulo><autor>Ivan Vargas</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1528258538</ISBN><titulo>Espejo de Educacion</titulo><autor>Ivan Morales</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>540790079</ISBN><titulo>Codigo del Ecologia</titulo><autor>Valeria Morales</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1847582609</ISBN><titulo>Cronicas de Algebra</titulo><autor>Andres Diaz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>404457304</ISBN><titulo>Introduccion a Cuento</titulo><autor>Jorge Lopez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1117598829</ISBN><titulo>La Avanzado Cronica</titulo><autor>Valeria Morales</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>564267258</ISBN><titulo>La Perdido Manual</titulo><autor>Andres Salazar</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1162139864</ISBN><titulo>Metodo de Fisica</titulo><autor>Elena Cruz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1250926972</ISBN><titulo>La Esencial Rio</titulo><autor>Nadia Castro</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1088857718</ISBN><titulo>El Jardin Practico de Sociologia</titulo><autor>Hector Herrera</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>885565896</ISBN><titulo>Arte: Enigma Completo</titulo><autor>Pablo Martinez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1319919693</ISBN><titulo>Cronicas de Sociologia</titulo><autor>Hector Mendez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1520441312</ISBN><titulo>Programacion: Codigo Oculto</titulo><autor>Gabriela Rodriguez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>278435098</ISBN><titulo>Cronica del Algebra</titulo><autor>Marta Martinez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1951872969</ISBN><titulo>La Nocturno Atlas</titulo><autor>Sofia Gomez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>265331211</ISBN><titulo>Memoria de Ciencias</titulo><autor>Teresa Herrera</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1054425973</ISBN><titulo>Origen del Poesia</titulo><autor>Elena Ramirez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1082075558</ISBN><titulo>El Clasico Espejo</titulo><autor>Carlos Cruz</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1190132332</ISBN><titulo>Introduccion a Criptografia</titulo><autor>Jorge Castro</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1935168585</ISBN><titulo>Introduccion a Teatro</titulo><autor>Isabel Rojas</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>519421947</ISBN><titulo>Sistema de Algebra</titulo><autor>Jorge Flores</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>933295987</ISBN><titulo>La Elemental Viaje</titulo><autor>Mario Herrera</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>783387526</ISBN><titulo>Historia del Biografia</titulo><autor>Clara Mendez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1705126949</ISBN><titulo>Deportes: Sombra Ilustrado</titulo><autor>Marta Herrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1496614774</ISBN><titulo>Cronicas de Literatura</titulo><autor>Mario Morales</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>847279680</ISBN><titulo>Cronica del Comic</titulo><autor>Luis Martinez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>579113280</ISBN><titulo>El Elemental Teoria</titulo><autor>Ana Ibarra</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>566840948</ISBN><titulo>La Practico Camino</titulo><autor>Lucia Ortiz</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>177037614</ISBN><titulo>El Memoria Moderno de Economia</titulo><autor>Luis Perez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>183767136</ISBN><titulo>El Infinito Puente</titulo><autor>Camila Rodriguez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1510781221</ISBN><titulo>Diccionario del Cine</titulo><autor>Isabel Campos</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>36037211</ISBN><titulo>El Fundamental Memoria</titulo><autor>Camila Castro</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>776730705</ISBN><titulo>Cronicas de Ciencias</titulo><autor>Lucia Morales</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1302434764</ISBN><titulo>Puente de Biografia</titulo><autor>Lucia Campos</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>553476471</ISBN><titulo>El Legado Oculto de Fisica</titulo><autor>Valeria Ibarra</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>820530272</ISBN><titulo>Cronicas de Linguistica</titulo><autor>Tomas Castro</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>244467090</ISBN><titulo>El Fundamental Secreto</titulo><autor>Ana Herrera</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1266935319</ISBN><titulo>Secreto de Ciencias</titulo><autor>Elena Flores</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1499356071</ISBN><titulo>Introduccion a Programacion</titulo><autor>Teresa Navarro</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>340974426</ISBN><titulo>El Perdido Manual</titulo><autor>Lucia Garcia</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1848177182</ISBN><titulo>Introduccion a Comic</titulo><autor>Pablo Vargas</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>616828078</ISBN><titulo>Introduccion a Ingenieria</titulo><autor>Valeria Perez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>551506203</ISBN><titulo>El Nocturno Rio</titulo><autor>Rosa Mendez</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>346139782</ISBN><titulo>Manual de Genetica</titulo><autor>Sofia Perez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1330894552</ISBN><titulo>Diccionario del Ciencias</titulo><autor>Valeria Mendez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>62355510</ISBN><titulo>Historia del Estadistica</titulo><autor>Nadia Garcia</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>772859076</ISBN><titulo>Enigma de Diseno</titulo><autor>Valeria Cabrera</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1475060522</ISBN><titulo>Historia del Musica</titulo><autor>Ivan Campos</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1349170300</ISBN><titulo>Introduccion a Biologia</titulo><autor>Oscar Flores</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1028999698</ISBN><titulo>Tratado de Educacion</titulo><autor>Andres Navarro</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1004156993</ISBN><titulo>El Mapa Infinito de Teatro</titulo><autor>Paula Reyes</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>201842083</ISBN><titulo>Enigma de Quimica</titulo><autor>Mario Perez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>798165296</ISBN><titulo>Jardin del Filosofia</titulo><autor>Ruben Cruz</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1370624559</ISBN><titulo>Cronicas de Arte</titulo><autor>Felipe Martinez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1959061510</ISBN><titulo>Bases de datos: Enigma Definitivo</titulo><autor>Gabriela Rojas</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1237979989</ISBN><titulo>Mapa del Redes</titulo><autor>Ivan Navarro</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1684131263</ISBN><titulo>Robotica: Atlas Practico</titulo><autor>Oscar Salazar</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>81823377</ISBN><titulo>Economia: Compendio Practico</titulo><autor>Ivan Aguilar</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1826658696</ISBN><titulo>Ingenieria: Origen Practico</titulo><autor>Nadia Martinez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1451595883</ISBN><titulo>Origen del Ensayo</titulo><autor>Gabriela Salazar</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>204384056</ISBN><titulo>Introduccion a Ciencias</titulo><autor>Jorge Ibarra</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>279654297</ISBN><titulo>El Teoria Moderno de Biologia</titulo><autor>Oscar Morales</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1191418253</ISBN><titulo>Memoria de Arte</titulo><autor>Clara Garcia</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>785290540</ISBN><titulo>La Avanzado Historia</titulo><autor>Nadia Rodriguez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1908678918</ISBN><titulo>El Definitivo Secreto</titulo><autor>Gabriela Cabrera</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1381072810</ISBN><titulo>La Completo Sombra</titulo><autor>Roberto Flores</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>570729139</ISBN><titulo>El Sistema Moderno de Novelas</titulo><autor>Camila Mendez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1000256049</ISBN><titulo>El Origen Moderno de Literatura</titulo><autor>Clara Herrera</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>304036693</ISBN><titulo>Camino de Criptografia</titulo><autor>Nadia Castro</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1067277686</ISBN><titulo>El Esencial Sombra</titulo><autor>Nadia Campos</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1053793950</ISBN><titulo>Cronicas de Deportes</titulo><autor>Nadia Ortiz</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>620139541</ISBN><titulo>El Completo Puente</titulo><autor>Elena Morales</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1413947892</ISBN><titulo>El Antiguo Cronica</titulo><autor>Luis Cabrera</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1254274460</ISBN><titulo>El Origen Nocturno de Arquitectura</titulo><autor>Ivan Rojas</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1143778951</ISBN><titulo>Introduccion a Psicologia</titulo><autor>Sofia Martinez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>194644435</ISBN><titulo>La Elemental Diccionario</titulo><autor>Roberto Martinez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1224493925</ISBN><titulo>Introduccion a Programacion</titulo><autor>Ruben Navarro</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1383888328</ISBN><titulo>La Clasico Manual</titulo><autor>Luis Garcia</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>103511711</ISBN><titulo>El Sistema Practico de Novelas</titulo><autor>Felipe Fuentes</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>481963633</ISBN><titulo>Historia de Antropologia</titulo><autor>Rosa Aguilar</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>995924485</ISBN><titulo>El Avanzado Diccionario</titulo><autor>Hector Pena</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1284255577</ISBN><titulo>Astronomia: Tratado Aplicado</titulo><autor>Ivan Salazar</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1026404308</ISBN><titulo>El Secreto Fundamental de Cine</titulo><autor>Felipe Garcia</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1330516628</ISBN><titulo>El Fundamental Viaje</titulo><autor>Tomas Herrera</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>837162746</ISBN><titulo>El Legado Completo de Deportes</titulo><autor>Ana Perez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>292326821</ISBN><titulo>Introduccion a Sociologia</titulo><autor>Paula Herrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1498128181</ISBN><titulo>Cine: Manual Infinito</titulo><autor>Isabel Vargas</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>797760183</ISBN><titulo>Derecho: Tratado Oculto</titulo><autor>Isabel Fuentes</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>663282876</ISBN><titulo>Camino del Geografia</titulo><autor>Elena Campos</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1368576440</ISBN><titulo>Linguistica: Manual Definitivo</titulo><autor>Nadia Gomez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1230852529</ISBN><titulo>Cronicas de Criptografia</titulo><autor>Ana Diaz</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1951671960</ISBN><titulo>El Sistema Oculto de Astronomia</titulo><autor>Paula Navarro</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>972787452</ISBN><titulo>La Comparado Codigo</titulo><autor>Sofia Navarro</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1114694759</ISBN><titulo>Matematicas: Puente Esencial</titulo><autor>Hector Aguilar</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1487910016</ISBN><titulo>El Enigma Esencial de Quimica</titulo><autor>Paula Lopez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>493844602</ISBN><titulo>El Practico Viaje</titulo><autor>Andres Castro</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>691459750</ISBN><titulo>Introduccion a Biologia</titulo><autor>Lucia Aguilar</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1575996905</ISBN><titulo>Sociologia: Secreto Avanzado</titulo><autor>Sofia Herrera</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1406924769</ISBN><titulo>Secreto de Ecologia</titulo><autor>Mario Lopez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1198009039</ISBN><titulo>La Oculto Origen</titulo><autor>Diego Vargas</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>162837624</ISBN><titulo>Diccionario de Ensayo</titulo><autor>Jorge Mendez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1519375978</ISBN><titulo>La Clasico Camino</titulo><autor>Hector Garcia</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1502004008</ISBN><titulo>El Espejo Avanzado de Filosofia</titulo><autor>Ana Ramirez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>217960982</ISBN><titulo>Cronicas de Estadistica</titulo><autor>Valeria Ramirez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>706778632</ISBN><titulo>Introduccion a Fisica</titulo><autor>Jorge Rojas</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>736190280</ISBN><titulo>Introduccion a Ecologia</titulo><autor>Marta Diaz</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1624672094</ISBN><titulo>La Oculto Enigma</titulo><autor>Hector Vargas</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>786663212</ISBN><titulo>La Practico Mapa</titulo><autor>Hector Cabrera</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>349860439</ISBN><titulo>El Rio Silencioso de Linguistica</titulo><autor>Diego Castro</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>872505269</ISBN><titulo>La Fundamental Tratado</titulo><autor>Marta Rodriguez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>622065389</ISBN><titulo>Camino de Astronomia</titulo><autor>Hector Aguilar</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>660394781</ISBN><titulo>Cronicas de Psicologia</titulo><autor>Clara Pena</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1431962248</ISBN><titulo>El Comparado Sistema</titulo><autor>Clara Garcia</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1384292223</ISBN><titulo>El Completo Secreto</titulo><autor>Isabel Fuentes</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1718870587</ISBN><titulo>La Breve Mapa</titulo><autor>Tomas Gomez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>703321873</ISBN><titulo>Cronicas de Geometria</titulo><autor>Hector Gomez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>709541205</ISBN><titulo>Teoria del Ensayo</titulo><autor>Felipe Gomez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>391251434</ISBN><titulo>El Jardin Nocturno de Botanica</titulo><autor>Oscar Diaz</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>375253270</ISBN><titulo>Introduccion a Teatro</titulo><autor>Sofia Diaz</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1486940125</ISBN><titulo>El Rio Avanzado de Fisica</titulo><autor>Andres Castro</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1653071037</ISBN><titulo>El Cronica Nocturno de Cine</titulo><autor>Tomas Herrera</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1710692048</ISBN><titulo>Cronicas de Tecnologia</titulo><autor>Clara Ibarra</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>304895095</ISBN><titulo>Introduccion a Teatro</titulo><autor>Valeria Martinez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>917057762</ISBN><titulo>El Manual Elemental de Astronomia</titulo><autor>Valeria Morales</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1949615377</ISBN><titulo>El Breve Origen</titulo><autor>Tomas Aguilar</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>57369845</ISBN><titulo>La Breve Manual</titulo><autor>Roberto Navarro</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>434820624</ISBN><titulo>Quimica: Diccionario Elemental</titulo><autor>Diego Flores</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1219592492</ISBN><titulo>El Legado Perdido de Genetica</titulo><autor>Mario Rodriguez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>584958887</ISBN><titulo>Teoria del Matematicas</titulo><autor>Rosa Campos</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1207680600</ISBN><titulo>Introduccion a Psicologia</titulo><autor>Roberto Vargas</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>571939251</ISBN><titulo>La Practico Historia</titulo><autor>Hector Mendez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1340178427</ISBN><titulo>Metodo del Viajes</titulo><autor>Paula Cabrera</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1661830891</ISBN><titulo>El Manual Silencioso de Fotografia</titulo><autor>Teresa Martinez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1952748565</ISBN><titulo>Introduccion a Zoologia</titulo><autor>Mario Flores</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>689568612</ISBN><titulo>Cronicas de Matematicas</titulo><autor>Luis Lopez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>774277049</ISBN><titulo>Introduccion a Ensayo</titulo><autor>Camila Rodriguez</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>332708617</ISBN><titulo>El Sistema Breve de Botanica</titulo><autor>Jorge Pena</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1869337849</ISBN><titulo>Introduccion a Bases de datos</titulo><autor>Carlos Garcia</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>993818669</ISBN><titulo>Memoria del Astronomia</titulo><autor>Pablo Rodriguez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>641154731</ISBN><titulo>Cronicas de Derecho</titulo><autor>Hector Lopez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>220319688</ISBN><titulo>Quimica: Manual Avanzado</titulo><autor>Felipe Aguilar</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>249576895</ISBN><titulo>Secreto de Diseno</titulo><autor>Mario Rodriguez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1825977259</ISBN><titulo>Introduccion a Ensayo</titulo><autor>Clara Mendez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>702242124</ISBN><titulo>Cronicas de Biografia</titulo><autor>Ivan Rodriguez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>950262158</ISBN><titulo>El Camino Aplicado de Ciencias</titulo><autor>Isabel Vargas</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>4825063</ISBN><titulo>Matematicas: Diccionario Clasico</titulo><autor>Gabriela Lopez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>941575641</ISBN><titulo>Introduccion a Economia</titulo><autor>Teresa Garcia</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1954339340</ISBN><titulo>El Fundamental Manual</titulo><autor>Oscar Castro</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1775576228</ISBN><titulo>Metodo de Historia</titulo><autor>Ruben Gomez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1593208903</ISBN><titulo>Quimica: Cronica Breve</titulo><autor>Ivan Morales</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>424792418</ISBN><titulo>El Diccionario Completo de Diseno</titulo><autor>Felipe Ramirez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1965317723</ISBN><titulo>Cronicas de Derecho</titulo><autor>Oscar Flores</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1114794157</ISBN><titulo>El Metodo Fundamental de Estadistica</titulo><autor>Teresa Cruz</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1788030664</ISBN><titulo>Introduccion a Zoologia</titulo><autor>Jorge Herrera</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>575603208</ISBN><titulo>Introduccion a Robotica</titulo><autor>Diego Cabrera</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>189406218</ISBN><titulo>Sistema del Fisica</titulo><autor>Clara Garcia</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1335004465</ISBN><titulo>El Historia Clasico de Redes</titulo><autor>Clara Pena</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>220182541</ISBN><titulo>Tecnologia: Historia Moderno</titulo><autor>Nadia Martinez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1033316732</ISBN><titulo>El Jardin Completo de Ciencias</titulo><autor>Ruben Ortiz</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1425053648</ISBN><titulo>Diccionario de Literatura</titulo><autor>Mario Pena</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>2704182</ISBN><titulo>Literatura: Historia Avanzado</titulo><autor>Paula Morales</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>258252872</ISBN><titulo>Introduccion a Linguistica</titulo><autor>Felipe Rodriguez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>799888763</ISBN><titulo>Introduccion a Redes</titulo><autor>Teresa Navarro</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1537118727</ISBN><titulo>Astronomia: Rio Elemental</titulo><autor>Andres Rojas</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1046512877</ISBN><titulo>Cronicas de Educacion</titulo><autor>Felipe Rojas</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>25404272</ISBN><titulo>Introduccion a Programacion</titulo><autor>Gabriela Rodriguez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>968347249</ISBN><titulo>Compendio del Musica</titulo><autor>Marta Diaz</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>365127687</ISBN><titulo>Puente del Diseno</titulo><autor>Mario Ibarra</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>128617045</ISBN><titulo>Cronicas de Ensayo</titulo><autor>Luis Ibarra</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>185396263</ISBN><titulo>Secreto de Poesia</titulo><autor>Roberto Navarro</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>34197727</ISBN><titulo>Codigo de Historia</titulo><autor>Clara Reyes</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1136767720</ISBN><titulo>La Antiguo Manual</titulo><autor>Carlos Castro</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1921464461</ISBN><titulo>Introduccion a Medicina</titulo><autor>Ruben Rodriguez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>526928197</ISBN><titulo>Cronicas de Ecologia</titulo><autor>Luis Cruz</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>495303067</ISBN><titulo>Mapa del Psicologia</titulo><autor>Teresa Herrera</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1363104390</ISBN><titulo>El Ilustrado Tratado</titulo><autor>Valeria Salazar</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1657456450</ISBN><titulo>Educacion: Teoria Aplicado</titulo><autor>Rosa Ibarra</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>240449430</ISBN><titulo>La Breve Historia</titulo><autor>Elena Ramirez</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>578644115</ISBN><titulo>Manual del Deportes</titulo><autor>Marta Flores</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>827182408</ISBN><titulo>Cronicas de Linguistica</titulo><autor>Teresa Pena</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>649567095</ISBN><titulo>Atlas de Ingenieria</titulo><autor>Andres Mendez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1110521412</ISBN><titulo>El Nocturno Jardin</titulo><autor>Hector Campos</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1436181983</ISBN><titulo>La Infinito Sombra</titulo><autor>Sofia Reyes</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>222871456</ISBN><titulo>Cronicas de Fotografia</titulo><autor>Roberto Reyes</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>138222012</ISBN><titulo>El Moderno Secreto</titulo><autor>Andres Mendez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1119555319</ISBN><titulo>El Elemental Enigma</titulo><autor>Pablo Perez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>815877798</ISBN><titulo>Introduccion a Biologia</titulo><autor>Andres Salazar</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1983099303</ISBN><titulo>El General Atlas</titulo><autor>Felipe Navarro</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>362112115</ISBN><titulo>Introduccion a Teatro</titulo><autor>Roberto Navarro</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>183789495</ISBN><titulo>Secreto de Arte</titulo><autor>Mario Cabrera</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>153191934</ISBN><titulo>Cronicas de Diseno</titulo><autor>Isabel Perez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1130749455</ISBN><titulo>Introduccion a Redes</titulo><autor>Roberto Salazar</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>472066777</ISBN><titulo>Cronicas de Deportes</titulo><autor>Diego Perez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1649080452</ISBN><titulo>Espejo de Antropologia</titulo><autor>Ana Salazar</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1026495070</ISBN><titulo>La Nocturno Atlas</titulo><autor>Ivan Pena</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>794389507</ISBN><titulo>El Nocturno Memoria</titulo><autor>Hector Herrera</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1889385761</ISBN><titulo>La Antiguo Mapa</titulo><autor>Gabriela Ibarra</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>887436694</ISBN><titulo>Introduccion a Quimica</titulo><autor>Elena Ibarra</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1480913665</ISBN><titulo>Diseno: Puente Clasico</titulo><autor>Roberto Castro</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>117517675</ISBN><titulo>Cronicas de Fisica</titulo><autor>Isabel Campos</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>926997319</ISBN><titulo>El Breve Diccionario</titulo><autor>Pablo Ramirez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1201219028</ISBN><titulo>Introduccion a Arte</titulo><autor>Ana Morales</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>378226689</ISBN><titulo>Diccionario de Cuento</titulo><autor>Elena Cruz</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1524116255</ISBN><titulo>Introduccion a Antropologia</titulo><autor>Ivan Lopez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1391567048</ISBN><titulo>Camino de Derecho</titulo><autor>Rosa Cabrera</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>497769544</ISBN><titulo>Mapa de Algebra</titulo><autor>Valeria Ibarra</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1497864120</ISBN><titulo>Introduccion a Ecologia</titulo><autor>Lucia Vargas</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1278827399</ISBN><titulo>Codigo de Matematicas</titulo><autor>Ruben Vargas</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>835469195</ISBN><titulo>Introduccion a Historia</titulo><autor>Hector Navarro</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>82010788</ISBN><titulo>El Comparado Memoria</titulo><autor>Hector Gomez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>667695210</ISBN><titulo>Cronicas de Teatro</titulo><autor>Ivan Flores</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1597329243</ISBN><titulo>Ciencias: Cronica Nocturno</titulo><autor>Hector Cabrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>742082752</ISBN><titulo>El Avanzado Mapa</titulo><autor>Andres Aguilar</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1343080324</ISBN><titulo>Cronicas de Biologia</titulo><autor>Ivan Ramirez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1742312807</ISBN><titulo>Metodo de Geometria</titulo><autor>Ruben Ramirez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1954540380</ISBN><titulo>Diccionario del Arte</titulo><autor>Mario Navarro</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>182038548</ISBN><titulo>El Enigma Nocturno de Deportes</titulo><autor>Diego Diaz</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>865885984</ISBN><titulo>El Antiguo Legado</titulo><autor>Luis Navarro</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>975429435</ISBN><titulo>Memoria de Criptografia</titulo><autor>Andres Perez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1183076305</ISBN><titulo>El Aplicado Secreto</titulo><autor>Mario Vargas</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>789759252</ISBN><titulo>Compendio de Fotografia</titulo><autor>Clara Garcia</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1039106063</ISBN><titulo>El Oculto Teoria</titulo><autor>Jorge Ibarra</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1214731999</ISBN><titulo>Introduccion a Geometria</titulo><autor>Roberto Campos</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>490783236</ISBN><titulo>Literatura: Rio Esencial</titulo><autor>Paula Vargas</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1184031263</ISBN><titulo>El Infinito Legado</titulo><autor>Lucia Campos</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1826798911</ISBN><titulo>Tratado de Diseno</titulo><autor>Nadia Fuentes</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1639612374</ISBN><titulo>La Perdido Compendio</titulo><autor>Oscar Perez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>236177639</ISBN><titulo>Programacion: Historia Oculto</titulo><autor>Teresa Vargas</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1335411996</ISBN><titulo>La Practico Legado</titulo><autor>Hector Gomez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>435252846</ISBN><titulo>Cronicas de Matematicas</titulo><autor>Ivan Gomez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>14294049</ISBN><titulo>Introduccion a Quimica</titulo><autor>Felipe Ibarra</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1114232650</ISBN><titulo>Cronicas de Biografia</titulo><autor>Ruben Salazar</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1608143282</ISBN><titulo>El Viaje Definitivo de Antropologia</titulo><autor>Rosa Morales</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1405640558</ISBN><titulo>El Secreto Perdido de Robotica</titulo><autor>Diego Diaz</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>760227223</ISBN><titulo>Deportes: Compendio Ilustrado</titulo><autor>Rosa Aguilar</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>816375080</ISBN><titulo>El Avanzado Sistema</titulo><autor>Elena Diaz</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>767368862</ISBN><titulo>Sombra del Psicologia</titulo><autor>Felipe Vargas</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1625714478</ISBN><titulo>La Elemental Viaje</titulo><autor>Oscar Garcia</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1912904078</ISBN><titulo>Sistema del Antropologia</titulo><autor>Ruben Salazar</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>538448942</ISBN><titulo>El Memoria Avanzado de Zoologia</titulo><autor>Carlos Ibarra</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1754658256</ISBN><titulo>Introduccion a Botanica</titulo><autor>Isabel Flores</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>717035160</ISBN><titulo>Criptografia: Puente Comparado</titulo><autor>Andres Ramirez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>45147518</ISBN><titulo>Manual de Deportes</titulo><autor>Oscar Campos</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>719479380</ISBN><titulo>Cronicas de Sociologia</titulo><autor>Tomas Rodriguez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1838446224</ISBN><titulo>La Esencial Origen</titulo><autor>Valeria Lopez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>328438749</ISBN><titulo>Cronicas de Programacion</titulo><autor>Ivan Lopez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1278154904</ISBN><titulo>Metodo del Filosofia</titulo><autor>Pablo Martinez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>413927199</ISBN><titulo>La Avanzado Puente</titulo><autor>Andres Salazar</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>237228083</ISBN><titulo>Cronicas de Estadistica</titulo><autor>Clara Martinez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>640371463</ISBN><titulo>Origen de Cocina</titulo><autor>Valeria Cabrera</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>113303310</ISBN><titulo>Cronicas de Programacion</titulo><autor>Elena Ibarra</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>307486361</ISBN><titulo>Introduccion a Redes</titulo><autor>Camila Fuentes</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1339866775</ISBN><titulo>Cronicas de Historia</titulo><autor>Ruben Lopez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1158441055</ISBN><titulo>La Clasico Viaje</titulo><autor>Ana Navarro</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>131187309</ISBN><titulo>El Sistema Antiguo de Zoologia</titulo><autor>Isabel Diaz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>165753589</ISBN><titulo>Cronicas de Robotica</titulo><autor>Marta Salazar</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1798971954</ISBN><titulo>Sistema del Diseno</titulo><autor>Hector Ibarra</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1479417136</ISBN><titulo>Novelas: Enigma Silencioso</titulo><autor>Jorge Diaz</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1437357158</ISBN><titulo>Cronicas de Fotografia</titulo><autor>Luis Pena</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1940428817</ISBN><titulo>La Moderno Compendio</titulo><autor>Diego Mendez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1354460867</ISBN><titulo>El Codigo Infinito de Medicina</titulo><autor>Tomas Ibarra</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>693313597</ISBN><titulo>La Infinito Teoria</titulo><autor>Mario Pena</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1923756610</ISBN><titulo>Introduccion a Estadistica</titulo><autor>Rosa Castro</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>959782090</ISBN><titulo>Tratado de Algebra</titulo><autor>Luis Cruz</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1359921408</ISBN><titulo>El Tratado Breve de Economia</titulo><autor>Sofia Martinez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1791984221</ISBN><titulo>Biologia: Jardin Clasico</titulo><autor>Isabel Salazar</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>298975347</ISBN><titulo>El Camino Elemental de Astronomia</titulo><autor>Gabriela Martinez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>167336559</ISBN><titulo>La Comparado Camino</titulo><autor>Isabel Vargas</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1048840030</ISBN><titulo>Cronicas de Comic</titulo><autor>Ana Gomez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1239070836</ISBN><titulo>El Breve Espejo</titulo><autor>Tomas Mendez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1305233462</ISBN><titulo>La Aplicado Legado</titulo><autor>Hector Diaz</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1004665320</ISBN><titulo>Introduccion a Robotica</titulo><autor>Nadia Pena</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>844882497</ISBN><titulo>Manual del Filosofia</titulo><autor>Ruben Herrera</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>154001316</ISBN><titulo>Cronicas de Fotografia</titulo><autor>Ivan Cabrera</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1372941764</ISBN><titulo>El Diccionario Completo de Poesia</titulo><autor>Mario Garcia</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>381809579</ISBN><titulo>Cronicas de Antropologia</titulo><autor>Ruben Ortiz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>509648569</ISBN><titulo>Literatura: Mapa Fundamental</titulo><autor>Lucia Flores</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>881391604</ISBN><titulo>El Ilustrado Mapa</titulo><autor>Nadia Reyes</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>142182158</ISBN><titulo>Introduccion a Matematicas</titulo><autor>Lucia Castro</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>713184406</ISBN><titulo>Manual de Viajes</titulo><autor>Sofia Mendez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1094895070</ISBN><titulo>La Oculto Viaje</titulo><autor>Sofia Garcia</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>226391368</ISBN><titulo>Introduccion a Algebra</titulo><autor>Ruben Lopez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>831653816</ISBN><titulo>El Secreto Practico de Derecho</titulo><autor>Mario Aguilar</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>250560375</ISBN><titulo>La Antiguo Viaje</titulo><autor>Andres Ramirez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1777920470</ISBN><titulo>El Breve Secreto</titulo><autor>Sofia Salazar</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1780436973</ISBN><titulo>Cronicas de Poesia</titulo><autor>Jorge Morales</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>436208260</ISBN><titulo>La Avanzado Metodo</titulo><autor>Tomas Campos</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>210091671</ISBN><titulo>Diccionario de Linguistica</titulo><autor>Jorge Ortiz</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>341054464</ISBN><titulo>La Breve Mapa</titulo><autor>Ana Castro</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>283589310</ISBN><titulo>Diccionario del Viajes</titulo><autor>Rosa Lopez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>787546759</ISBN><titulo>Teatro: Memoria Breve</titulo><autor>Felipe Cabrera</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1055322025</ISBN><titulo>Cronicas de Programacion</titulo><autor>Luis Perez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>248713840</ISBN><titulo>La Comparado Atlas</titulo><autor>Ivan Diaz</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1276777883</ISBN><titulo>Introduccion a Arte</titulo><autor>Isabel Martinez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>342162198</ISBN><titulo>Puente del Ecologia</titulo><autor>Lucia Ramirez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>503727298</ISBN><titulo>La Definitivo Manual</titulo><autor>Rosa Mendez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1420135496</ISBN><titulo>Genetica: Rio Comparado</titulo><autor>Teresa Fuentes</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>266174029</ISBN><titulo>Cronicas de Ingenieria</titulo><autor>Jorge Diaz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>905237728</ISBN><titulo>Introduccion a Psicologia</titulo><autor>Camila Morales</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1699092622</ISBN><titulo>Cronicas de Derecho</titulo><autor>Hector Morales</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>96790324</ISBN><titulo>El Esencial Cronica</titulo><autor>Ana Aguilar</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>623848080</ISBN><titulo>El Definitivo Sombra</titulo><autor>Jorge Navarro</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1684412578</ISBN><titulo>El Secreto Definitivo de Programacion</titulo><autor>Mario Gomez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>127972674</ISBN><titulo>Ecologia: Teoria Clasico</titulo><autor>Jorge Lopez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1461259558</ISBN><titulo>La Ilustrado Memoria</titulo><autor>Tomas Rodriguez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>591690363</ISBN><titulo>Cronicas de Educacion</titulo><autor>Lucia Mendez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>440905777</ISBN><titulo>Introduccion a Ciencias</titulo><autor>Valeria Rodriguez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>943309411</ISBN><titulo>Cronicas de Cuento</titulo><autor>Ruben Cabrera</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>468350205</ISBN><titulo>Introduccion a Literatura</titulo><autor>Andres Reyes</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1645882320</ISBN><titulo>La Esencial Puente</titulo><autor>Hector Flores</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>9997863</ISBN><titulo>Cronicas de Astronomia</titulo><autor>Diego Lopez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1207596482</ISBN><titulo>Cronicas de Fisica</titulo><autor>Elena Ibarra</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1358249074</ISBN><titulo>Introduccion a Historia</titulo><autor>Paula Fuentes</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>955289630</ISBN><titulo>La Fundamental Manual</titulo><autor>Ana Flores</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>594802361</ISBN><titulo>La Definitivo Compendio</titulo><autor>Tomas Rodriguez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>214485346</ISBN><titulo>El Silencioso Diccionario</titulo><autor>Diego Aguilar</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>43040402</ISBN><titulo>El Jardin Comparado de Robotica</titulo><autor>Lucia Garcia</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1814941427</ISBN><titulo>El Avanzado Compendio</titulo><autor>Tomas Navarro</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1440196578</ISBN><titulo>Teoria del Psicologia</titulo><autor>Tomas Garcia</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>982440270</ISBN><titulo>El General Enigma</titulo><autor>Clara Perez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>25303581</ISBN><titulo>El Rio Silencioso de Bases de datos</titulo><autor>Mario Diaz</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1661310634</ISBN><titulo>Cronicas de Quimica</titulo><autor>Teresa Vargas</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>699826497</ISBN><titulo>La Silencioso Historia</titulo><autor>Mario Ortiz</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>45011296</ISBN><titulo>Secreto de Novelas</titulo><autor>Roberto Pena</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1309006098</ISBN><titulo>Introduccion a Botanica</titulo><autor>Pablo Castro</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>449889823</ISBN><titulo>Ingenieria: Manual Elemental</titulo><autor>Luis Morales</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1600072164</ISBN><titulo>Introduccion a Sociologia</titulo><autor>Andres Ibarra</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>224418284</ISBN><titulo>Sociologia: Teoria Moderno</titulo><autor>Diego Ramirez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>887414825</ISBN><titulo>Puente de Biografia</titulo><autor>Hector Cruz</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1655742822</ISBN><titulo>Jardin de Viajes</titulo><autor>Ana Mendez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1004196576</ISBN><titulo>La Moderno Memoria</titulo><autor>Jorge Perez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1251547303</ISBN><titulo>Arte: Manual General</titulo><autor>Camila Ramirez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1249445783</ISBN><titulo>El Camino Aplicado de Comic</titulo><autor>Elena Aguilar</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1171722725</ISBN><titulo>Cronicas de Ecologia</titulo><autor>Nadia Garcia</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>186318593</ISBN><titulo>Diccionario del Programacion</titulo><autor>Rosa Morales</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>106833318</ISBN><titulo>Algebra: Cronica Clasico</titulo><autor>Roberto Cruz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>317278116</ISBN><titulo>Cronicas de Geometria</titulo><autor>Camila Lopez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1397041640</ISBN><titulo>Memoria del Geografia</titulo><autor>Andres Herrera</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1937645459</ISBN><titulo>El Atlas Elemental de Deportes</titulo><autor>Nadia Campos</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1279329492</ISBN><titulo>Cronicas de Criptografia</titulo><autor>Rosa Cabrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1300787760</ISBN><titulo>Cronicas de Robotica</titulo><autor>Roberto Ramirez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1711446495</ISBN><titulo>Cronicas de Redes</titulo><autor>Carlos Campos</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1787133106</ISBN><titulo>El Infinito Diccionario</titulo><autor>Rosa Salazar</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1399298735</ISBN><titulo>El Comparado Compendio</titulo><autor>Teresa Navarro</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>336114931</ISBN><titulo>Comic: Manual Definitivo</titulo><autor>Ivan Rodriguez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1368103388</ISBN><titulo>El Teoria Silencioso de Linguistica</titulo><autor>Carlos Rodriguez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1855648746</ISBN><titulo>Introduccion a Matematicas</titulo><autor>Oscar Salazar</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>469223894</ISBN><titulo>Novelas: Compendio Elemental</titulo><autor>Roberto Morales</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>564685336</ISBN><titulo>Enigma de Ciencias</titulo><autor>Paula Perez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>647062528</ISBN><titulo>Cronicas de Teatro</titulo><autor>Paula Pena</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>706893177</ISBN><titulo>Introduccion a Poesia</titulo><autor>Andres Mendez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1182103822</ISBN><titulo>El Metodo Avanzado de Ingenieria</titulo><autor>Rosa Flores</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>858642091</ISBN><titulo>El Completo Secreto</titulo><autor>Roberto Diaz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>44943964</ISBN><titulo>Camino de Fotografia</titulo><autor>Gabriela Ortiz</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>484498812</ISBN><titulo>Cronicas de Educacion</titulo><autor>Tomas Fuentes</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1140461643</ISBN><titulo>Cronicas de Biologia</titulo><autor>Luis Mendez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1609839991</ISBN><titulo>Introduccion a Cuento</titulo><autor>Roberto Rodriguez</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>629117074</ISBN><titulo>Metodo del Fotografia</titulo><autor>Carlos Morales</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>926998552</ISBN><titulo>El Ilustrado Metodo</titulo><autor>Mario Castro</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1375629776</ISBN><titulo>El Tratado Avanzado de Filosofia</titulo><autor>Jorge Pena</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1706071393</ISBN><titulo>Sistema del Geografia</titulo><autor>Isabel Cruz</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1284226218</ISBN><titulo>Quimica: Camino Completo</titulo><autor>Jorge Fuentes</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1716250322</ISBN><titulo>Cronicas de Algebra</titulo><autor>Teresa Fuentes</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>283503073</ISBN><titulo>El Cronica Perdido de Fisica</titulo><autor>Lucia Aguilar</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1517758202</ISBN><titulo>Cronicas de Zoologia</titulo><autor>Nadia Herrera</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1568931425</ISBN><titulo>Sombra del Algebra</titulo><autor>Gabriela Navarro</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>524614449</ISBN><titulo>El Avanzado Teoria</titulo><autor>Mario Fuentes</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1516046946</ISBN><titulo>Sociologia: Legado Comparado</titulo><autor>Rosa Cruz</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1046872936</ISBN><titulo>Cronicas de Derecho</titulo><autor>Mario Flores</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>750442342</ISBN><titulo>Historia del Viajes</titulo><autor>Diego Garcia</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>98862063</ISBN><titulo>La Esencial Origen</titulo><autor>Nadia Cruz</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>727604068</ISBN><titulo>La Practico Compendio</titulo><autor>Camila Garcia</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1789162401</ISBN><titulo>Codigo de Ingenieria</titulo><autor>Ruben Diaz</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1864490462</ISBN><titulo>El Metodo Clasico de Bases de datos</titulo><autor>Oscar Ramirez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>784702587</ISBN><titulo>Cronicas de Arquitectura</titulo><autor>Luis Cabrera</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1396381042</ISBN><titulo>El Rio Clasico de Sociologia</titulo><autor>Jorge Salazar</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1224604916</ISBN><titulo>Origen de Filosofia</titulo><autor>Gabriela Garcia</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1166739423</ISBN><titulo>Mapa de Bases de datos</titulo><autor>Mario Cruz</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>992486919</ISBN><titulo>La Aplicado Espejo</titulo><autor>Oscar Castro</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>206518964</ISBN><titulo>El Practico Teoria</titulo><autor>Sofia Campos</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>570282525</ISBN><titulo>El Memoria Moderno de Poesia</titulo><autor>Pablo Fuentes</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>721228782</ISBN><titulo>Arquitectura: Jardin Perdido</titulo><autor>Tomas Rojas</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1653167301</ISBN><titulo>Cronicas de Arquitectura</titulo><autor>Roberto Mendez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1934491242</ISBN><titulo>Cronicas de Ingenieria</titulo><autor>Elena Cabrera</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1833997218</ISBN><titulo>Metodo de Viajes</titulo><autor>Roberto Vargas</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1852417711</ISBN><titulo>La Elemental Cronica</titulo><autor>Andres Cabrera</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1484769599</ISBN><titulo>Geografia: Sombra Oculto</titulo><autor>Hector Navarro</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1338766327</ISBN><titulo>Introduccion a Cuento</titulo><autor>Felipe Rodriguez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>399090728</ISBN><titulo>La Moderno Rio</titulo><autor>Teresa Campos</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1847239380</ISBN><titulo>Teoria del Astronomia</titulo><autor>Teresa Ortiz</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1752943614</ISBN><titulo>Enigma del Quimica</titulo><autor>Ana Herrera</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1514039120</ISBN><titulo>El Metodo General de Cocina</titulo><autor>Oscar Martinez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1151695608</ISBN><titulo>Introduccion a Algebra</titulo><autor>Roberto Aguilar</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>555049538</ISBN><titulo>Introduccion a Cocina</titulo><autor>Isabel Perez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>622881250</ISBN><titulo>Rio del Psicologia</titulo><autor>Sofia Herrera</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>947186382</ISBN><titulo>Introduccion a Deportes</titulo><autor>Diego Fuentes</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1283885333</ISBN><titulo>El Moderno Atlas</titulo><autor>Felipe Morales</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1155293981</ISBN><titulo>Teoria de Robotica</titulo><autor>Tomas Cruz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1337998282</ISBN><titulo>La Aplicado Compendio</titulo><autor>Andres Aguilar</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1582704615</ISBN><titulo>Educacion: Puente Nocturno</titulo><autor>Hector Mendez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>486083605</ISBN><titulo>Ciencias: Memoria Aplicado</titulo><autor>Elena Fuentes</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1509760440</ISBN><titulo>Atlas del Algebra</titulo><autor>Valeria Flores</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>260621605</ISBN><titulo>El Historia Breve de Matematicas</titulo><autor>Marta Navarro</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>312136187</ISBN><titulo>Introduccion a Derecho</titulo><autor>Diego Pena</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>985621166</ISBN><titulo>El Cronica Breve de Deportes</titulo><autor>Pablo Reyes</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1183127769</ISBN><titulo>Introduccion a Biografia</titulo><autor>Pablo Ortiz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>672283917</ISBN><titulo>Literatura: Origen Silencioso</titulo><autor>Valeria Castro</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1285377853</ISBN><titulo>Introduccion a Psicologia</titulo><autor>Ana Martinez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>755954832</ISBN><titulo>El Avanzado Sombra</titulo><autor>Felipe Morales</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1620649172</ISBN><titulo>Cine: Origen Completo</titulo><autor>Hector Fuentes</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1092831382</ISBN><titulo>La Clasico Mapa</titulo><autor>Jorge Flores</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>94352232</ISBN><titulo>El Avanzado Camino</titulo><autor>Elena Cruz</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1487503441</ISBN><titulo>Metodo del Ciencias</titulo><autor>Hector Salazar</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>761014627</ISBN><titulo>Antropologia: Espejo Ilustrado</titulo><autor>Tomas Garcia</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1413472023</ISBN><titulo>Cronicas de Criptografia</titulo><autor>Felipe Reyes</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1276283940</ISBN><titulo>Mapa de Redes</titulo><autor>Gabriela Ibarra</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1334312322</ISBN><titulo>La Antiguo Sombra</titulo><autor>Ivan Vargas</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1596438061</ISBN><titulo>Robotica: Origen Fundamental</titulo><autor>Oscar Navarro</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>375579247</ISBN><titulo>El Origen Avanzado de Arquitectura</titulo><autor>Pablo Martinez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>890729416</ISBN><titulo>Origen de Quimica</titulo><autor>Rosa Flores</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1134898525</ISBN><titulo>Ciencias: Memoria Completo</titulo><autor>Tomas Perez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>979664148</ISBN><titulo>Atlas del Literatura</titulo><autor>Jorge Navarro</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>178412420</ISBN><titulo>El Breve Secreto</titulo><autor>Tomas Reyes</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>95896997</ISBN><titulo>Cronicas de Linguistica</titulo><autor>Elena Navarro</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>899814293</ISBN><titulo>La Practico Enigma</titulo><autor>Pablo Rojas</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>658056399</ISBN><titulo>Deportes: Enigma Practico</titulo><autor>Diego Ramirez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>590857588</ISBN><titulo>Geometria: Sistema Avanzado</titulo><autor>Valeria Pena</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1313308005</ISBN><titulo>Tratado del Musica</titulo><autor>Isabel Ibarra</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>241250470</ISBN><titulo>La Completo Memoria</titulo><autor>Ana Herrera</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1790827469</ISBN><titulo>El Infinito Puente</titulo><autor>Jorge Ortiz</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1975149445</ISBN><titulo>La Elemental Origen</titulo><autor>Diego Aguilar</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>40504748</ISBN><titulo>Cronica del Psicologia</titulo><autor>Sofia Fuentes</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1659615726</ISBN><titulo>La Practico Codigo</titulo><autor>Paula Cruz</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>632926540</ISBN><titulo>El Secreto Ilustrado de Estadistica</titulo><autor>Teresa Ramirez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>602236339</ISBN><titulo>Espejo de Antropologia</titulo><autor>Paula Salazar</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>876452781</ISBN><titulo>Cocina: Memoria Silencioso</titulo><autor>Marta Herrera</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>456658801</ISBN><titulo>El Codigo Oculto de Zoologia</titulo><autor>Tomas Salazar</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1837802702</ISBN><titulo>Teoria de Biografia</titulo><autor>Jorge Martinez</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1664410054</ISBN><titulo>Introduccion a Programacion</titulo><autor>Rosa Mendez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>971605494</ISBN><titulo>La Ilustrado Sombra</titulo><autor>Hector Lopez</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>122099323</ISBN><titulo>Cronicas de Cuento</titulo><autor>Valeria Herrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>40972617</ISBN><titulo>Cronicas de Arquitectura</titulo><autor>Marta Reyes</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>220190427</ISBN><titulo>El Manual Comparado de Cocina</titulo><autor>Pablo Aguilar</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1002958274</ISBN><titulo>Jardin de Arquitectura</titulo><autor>Lucia Rodriguez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1601309724</ISBN><titulo>Comic: Codigo Oculto</titulo><autor>Ana Martinez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1861648268</ISBN><titulo>Introduccion a Comic</titulo><autor>Luis Navarro</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>929844127</ISBN><titulo>El Breve Enigma</titulo><autor>Teresa Cruz</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1988498697</ISBN><titulo>La Completo Rio</titulo><autor>Pablo Pena</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>145087250</ISBN><titulo>El Compendio Oculto de Criptografia</titulo><autor>Isabel Navarro</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>535049854</ISBN><titulo>Camino del Novelas</titulo><autor>Andres Flores</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>766721246</ISBN><titulo>El Breve Sombra</titulo><autor>Carlos Perez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>375065411</ISBN><titulo>El Sistema Practico de Ensayo</titulo><autor>Sofia Campos</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1190802514</ISBN><titulo>Legado del Novelas</titulo><autor>Valeria Rodriguez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>784537781</ISBN><titulo>Psicologia: Rio Moderno</titulo><autor>Luis Morales</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1150257215</ISBN><titulo>Introduccion a Ensayo</titulo><autor>Camila Rojas</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>368813442</ISBN><titulo>Cronicas de Astronomia</titulo><autor>Nadia Flores</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>691380483</ISBN><titulo>Viaje de Matematicas</titulo><autor>Roberto Ibarra</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>346372995</ISBN><titulo>Legado de Antropologia</titulo><autor>Carlos Rodriguez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1180137545</ISBN><titulo>Introduccion a Diseno</titulo><autor>Jorge Vargas</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1306811036</ISBN><titulo>Mapa de Cocina</titulo><autor>Pablo Campos</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1643001246</ISBN><titulo>El Memoria Perdido de Ingenieria</titulo><autor>Tomas Rodriguez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1816689903</ISBN><titulo>Legado de Ciencias</titulo><autor>Hector Salazar</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>269862354</ISBN><titulo>Introduccion a Redes</titulo><autor>Valeria Mendez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1032863629</ISBN><titulo>La Breve Compendio</titulo><autor>Hector Navarro</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1117845376</ISBN><titulo>Cronicas de Sociologia</titulo><autor>Isabel Garcia</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>755305660</ISBN><titulo>Introduccion a Redes</titulo><autor>Tomas Pena</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1032285389</ISBN><titulo>Teoria de Diseno</titulo><autor>Tomas Ramirez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1690553667</ISBN><titulo>Diccionario de Psicologia</titulo><autor>Lucia Cabrera</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1290884178</ISBN><titulo>Medicina: Viaje Practico</titulo><autor>Tomas Reyes</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>1906485240</ISBN><titulo>Psicologia: Historia Completo</titulo><autor>Marta Castro</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1970183601</ISBN><titulo>Metodo de Antropologia</titulo><autor>Andres Rodriguez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>415690132</ISBN><titulo>Introduccion a Literatura</titulo><autor>Mario Gomez</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1660649541</ISBN><titulo>Introduccion a Robotica</titulo><autor>Lucia Castro</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1622352134</ISBN><titulo>Sistema del Geometria</titulo><autor>Tomas Navarro</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1576160054</ISBN><titulo>Codigo del Teatro</titulo><autor>Paula Herrera</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>847377987</ISBN><titulo>Introduccion a Musica</titulo><autor>Oscar Diaz</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>934317472</ISBN><titulo>Cronicas de Medicina</titulo><autor>Rosa Mendez</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1516072049</ISBN><titulo>El Antiguo Memoria</titulo><autor>Camila Garcia</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1348866041</ISBN><titulo>El Enigma Practico de Medicina</titulo><autor>Tomas Diaz</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>758692330</ISBN><titulo>Cronicas de Cocina</titulo><autor>Ruben Castro</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>519526347</ISBN><titulo>Introduccion a Deportes</titulo><autor>Tomas Mendez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>595017043</ISBN><titulo>Mapa del Estadistica</titulo><autor>Diego Ortiz</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1704394202</ISBN><titulo>Algebra: Legado Elemental</titulo><autor>Rosa Herrera</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1524652061</ISBN><titulo>La Moderno Atlas</titulo><autor>Andres Aguilar</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1742517553</ISBN><titulo>Introduccion a Biografia</titulo><autor>Mario Aguilar</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>535512280</ISBN><titulo>Introduccion a Teatro</titulo><autor>Teresa Garcia</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>66209981</ISBN><titulo>Compendio de Cine</titulo><autor>Paula Ramirez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1878300265</ISBN><titulo>Historia del Literatura</titulo><autor>Felipe Cruz</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>349931336</ISBN><titulo>Introduccion a Economia</titulo><autor>Ruben Cabrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1283558176</ISBN><titulo>El General Sombra</titulo><autor>Lucia Lopez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1818981416</ISBN><titulo>Introduccion a Diseno</titulo><autor>Roberto Reyes</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>60671117</ISBN><titulo>Introduccion a Novelas</titulo><autor>Hector Morales</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1683477430</ISBN><titulo>La Aplicado Rio</titulo><autor>Felipe Ortiz</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1061732605</ISBN><titulo>El Silencioso Origen</titulo><autor>Rosa Aguilar</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1430797848</ISBN><titulo>Cronicas de Viajes</titulo><autor>Teresa Diaz</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1698867603</ISBN><titulo>El Completo Sombra</titulo><autor>Sofia Lopez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1328928139</ISBN><titulo>El Atlas Nocturno de Arquitectura</titulo><autor>Carlos Diaz</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>1039625731</ISBN><titulo>La Definitivo Teoria</titulo><autor>Jorge Cabrera</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1421106760</ISBN><titulo>Geometria: Secreto Completo</titulo><autor>Teresa Vargas</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1005462417</ISBN><titulo>El Metodo Ilustrado de Algebra</titulo><autor>Mario Lopez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1164632461</ISBN><titulo>El Origen Fundamental de Ingenieria</titulo><autor>Marta Martinez</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1957943769</ISBN><titulo>Camino de Literatura</titulo><autor>Oscar Castro</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>51403917</ISBN><titulo>La Antiguo Metodo</titulo><autor>Hector Cabrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>851813621</ISBN><titulo>El Sistema Completo de Teatro</titulo><autor>Paula Castro</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1397841486</ISBN><titulo>Musica: Origen Moderno</titulo><autor>Andres Campos</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>598552004</ISBN><titulo>La Avanzado Mapa</titulo><autor>Luis Fuentes</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>229521020</ISBN><titulo>Origen del Programacion</titulo><autor>Felipe Martinez</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1345770751</ISBN><titulo>Antropologia: Puente Completo</titulo><autor>Nadia Rodriguez</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>912072830</ISBN><titulo>Viajes: Sistema Avanzado</titulo><autor>Felipe Diaz</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>259309845</ISBN><titulo>La Breve Teoria</titulo><autor>Elena Ortiz</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1014161862</ISBN><titulo>El Teoria Fundamental de Ecologia</titulo><autor>Hector Castro</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1408927</ISBN><titulo>Cronicas de Ciencias</titulo><autor>Valeria Flores</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1457691995</ISBN><titulo>El Sistema Breve de Botanica</titulo><autor>Rosa Aguilar</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1544102875</ISBN><titulo>Camino de Quimica</titulo><autor>Teresa Cruz</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>415909280</ISBN><titulo>Atlas del Diseno</titulo><autor>Ruben Ortiz</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>820915165</ISBN><titulo>El Breve Origen</titulo><autor>Marta Aguilar</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>968782613</ISBN><titulo>El Atlas Avanzado de Geometria</titulo><autor>Roberto Ramirez</autor><categoria>Bases de datos</categoria></libro>
+    <libro><ISBN>1982995306</ISBN><titulo>Cronicas de Viajes</titulo><autor>Felipe Gomez</autor><categoria>Arte</categoria></libro>
+    <libro><ISBN>1431655317</ISBN><titulo>Cronicas de Literatura</titulo><autor>Marta Lopez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1597510478</ISBN><titulo>El Manual Aplicado de Educacion</titulo><autor>Lucia Mendez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>1495587197</ISBN><titulo>La Infinito Secreto</titulo><autor>Carlos Castro</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>237553519</ISBN><titulo>La Esencial Sistema</titulo><autor>Sofia Rojas</autor><categoria>Quimica</categoria></libro>
+    <libro><ISBN>1431046562</ISBN><titulo>Arte: Legado Aplicado</titulo><autor>Sofia Ramirez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>55453946</ISBN><titulo>Tratado del Antropologia</titulo><autor>Marta Mendez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>195773169</ISBN><titulo>El Aplicado Secreto</titulo><autor>Isabel Gomez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>1468367731</ISBN><titulo>El Historia General de Geografia</titulo><autor>Paula Lopez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1992975670</ISBN><titulo>Introduccion a Fisica</titulo><autor>Elena Flores</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1071191400</ISBN><titulo>Introduccion a Biografia</titulo><autor>Hector Ibarra</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1053554195</ISBN><titulo>Introduccion a Musica</titulo><autor>Marta Cabrera</autor><categoria>Zoologia</categoria></libro>
+    <libro><ISBN>1995651213</ISBN><titulo>El Sistema Silencioso de Arquitectura</titulo><autor>Sofia Martinez</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>237298473</ISBN><titulo>Cronicas de Robotica</titulo><autor>Tomas Salazar</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1669088662</ISBN><titulo>Sistema del Redes</titulo><autor>Ana Gomez</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>296779422</ISBN><titulo>Musica: Cronica Esencial</titulo><autor>Isabel Cabrera</autor><categoria>Fisica</categoria></libro>
+    <libro><ISBN>399595078</ISBN><titulo>Cronicas de Viajes</titulo><autor>Jorge Perez</autor><categoria>Matematicas</categoria></libro>
+    <libro><ISBN>709365099</ISBN><titulo>Codigo del Ciencias</titulo><autor>Ruben Navarro</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1494324644</ISBN><titulo>Jardin del Poesia</titulo><autor>Lucia Ortiz</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1489365391</ISBN><titulo>La Completo Enigma</titulo><autor>Nadia Cruz</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>1993607891</ISBN><titulo>El Viaje General de Tecnologia</titulo><autor>Paula Cabrera</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1309443193</ISBN><titulo>Musica: Espejo Avanzado</titulo><autor>Teresa Reyes</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1371039093</ISBN><titulo>Introduccion a Quimica</titulo><autor>Jorge Pena</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>1431698869</ISBN><titulo>La Silencioso Rio</titulo><autor>Ruben Perez</autor><categoria>Linguistica</categoria></libro>
+    <libro><ISBN>1005245714</ISBN><titulo>El Viaje Elemental de Redes</titulo><autor>Andres Salazar</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1761193293</ISBN><titulo>Diccionario del Bases de datos</titulo><autor>Jorge Salazar</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>201652455</ISBN><titulo>Cronicas de Cine</titulo><autor>Teresa Vargas</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>1512802716</ISBN><titulo>Puente del Biologia</titulo><autor>Ana Cabrera</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1702624637</ISBN><titulo>La Infinito Rio</titulo><autor>Roberto Martinez</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>266842728</ISBN><titulo>Viaje de Derecho</titulo><autor>Oscar Aguilar</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1300504560</ISBN><titulo>La Elemental Tratado</titulo><autor>Pablo Martinez</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1126868842</ISBN><titulo>Introduccion a Robotica</titulo><autor>Lucia Ramirez</autor><categoria>Sociologia</categoria></libro>
+    <libro><ISBN>322932206</ISBN><titulo>Biografia: Enigma Nocturno</titulo><autor>Valeria Diaz</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1187906560</ISBN><titulo>El Memoria Nocturno de Sociologia</titulo><autor>Jorge Garcia</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>413697964</ISBN><titulo>Historia del Sociologia</titulo><autor>Ivan Cabrera</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>597791679</ISBN><titulo>El Memoria Fundamental de Historia</titulo><autor>Gabriela Ibarra</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1671092021</ISBN><titulo>El Espejo Aplicado de Biografia</titulo><autor>Andres Garcia</autor><categoria>Ecologia</categoria></libro>
+    <libro><ISBN>392635590</ISBN><titulo>El Manual Antiguo de Linguistica</titulo><autor>Lucia Flores</autor><categoria>Viajes</categoria></libro>
+    <libro><ISBN>1128687835</ISBN><titulo>El Practico Camino</titulo><autor>Roberto Herrera</autor><categoria>Estadistica</categoria></libro>
+    <libro><ISBN>1836658893</ISBN><titulo>Cronicas de Quimica</titulo><autor>Mario Mendez</autor><categoria>Novelas</categoria></libro>
+    <libro><ISBN>734445586</ISBN><titulo>Jardin de Estadistica</titulo><autor>Pablo Campos</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>1088294956</ISBN><titulo>El Rio Aplicado de Ingenieria</titulo><autor>Paula Reyes</autor><categoria>Diseno</categoria></libro>
+    <libro><ISBN>1238301945</ISBN><titulo>Memoria del Biologia</titulo><autor>Luis Ortiz</autor><categoria>Medicina</categoria></libro>
+    <libro><ISBN>253831705</ISBN><titulo>La Aplicado Rio</titulo><autor>Camila Ortiz</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>1968217390</ISBN><titulo>Algebra: Manual Fundamental</titulo><autor>Camila Fuentes</autor><categoria>Filosofia</categoria></libro>
+    <libro><ISBN>430453277</ISBN><titulo>Poesia: Historia Practico</titulo><autor>Ivan Cabrera</autor><categoria>Deportes</categoria></libro>
+    <libro><ISBN>1693611815</ISBN><titulo>El Teoria Antiguo de Robotica</titulo><autor>Isabel Ortiz</autor><categoria>Cocina</categoria></libro>
+    <libro><ISBN>240057866</ISBN><titulo>El Rio Ilustrado de Cuento</titulo><autor>Paula Perez</autor><categoria>Cine</categoria></libro>
+    <libro><ISBN>1186295066</ISBN><titulo>La Definitivo Enigma</titulo><autor>Lucia Morales</autor><categoria>Cuento</categoria></libro>
+    <libro><ISBN>464523832</ISBN><titulo>La Completo Tratado</titulo><autor>Rosa Gomez</autor><categoria>Linguistica</categoria></libro>
+  </listaLibros>
+</config>

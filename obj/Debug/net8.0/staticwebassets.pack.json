@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
+      "Id": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/eduardo/Documentos/Usac/SEMESTRE/Semestre6/LAB-IPC2/PROYECTOS/IPC2_Proy02_202602_202405840/wwwroot/js/app.js",
+      "PackagePath": "staticwebassets/js/app.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Proyecto2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Proyecto2.props",
+      "PackagePath": "build\\Proyecto2.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Proyecto2.props",
+      "PackagePath": "buildMultiTargeting\\Proyecto2.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Proyecto2.props",
+      "PackagePath": "buildTransitive\\Proyecto2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -2,21 +2,45 @@ using Proyecto2.Models;
 
 namespace Proyecto2.Utils;
 
-//Arbol n-ario de categorias
-
 public class NaryTree
 {
-    public CategoryNode Root { get; set; }
+    public CategoryNode Root { get; private set; }
+    public bool RootDeclared { get; private set; }
+    private StringBag _names = new();   
 
     public NaryTree() => Root = new CategoryNode("Catalogo");
 
-    public void Reset() => Root = new CategoryNode("Catalogo");
+    public void Reset()
+    {
+        Root = new CategoryNode("Catalogo");
+        RootDeclared = false;
+        _names = new StringBag();       
+    }
 
-    public CategoryNode? Find(string name) => Find(Root, name);
+    // ─────────────────────────────────────────────────────────
+    // Búsqueda / existencia
+    // ─────────────────────────────────────────────────────────
+
+    private bool NameExists(string name)
+    {
+        if (name == "Catalogo") return RootDeclared;
+        var arr = _names.ToArray();
+        for (int i = 0; i < arr.Length; i++)
+            if (arr[i] == name) return true;
+        return false;
+    }
+
+    public CategoryNode? Find(string name)
+    {
+        if (string.IsNullOrWhiteSpace(name)) return null;
+        if (name == "Catalogo") return RootDeclared ? Root : null;
+        if (!NameExists(name)) return null;
+        return Find(Root, name);
+    }
 
     private CategoryNode? Find(CategoryNode node, string name)
     {
-        if (node.Name.Equals(name, StringComparison.OrdinalIgnoreCase)) return node;
+        if (node.Name.Equals(name, StringComparison.Ordinal)) return node;
         var child = node.FirstChild;
         while (child != null)
         {
@@ -27,23 +51,106 @@ public class NaryTree
         return null;
     }
 
-    public bool AddCategory(string name, string? parentName)
+    // ─────────────────────────────────────────────────────────
+    // Carga masiva con linking diferido
+    // ─────────────────────────────────────────────────────────
+
+    public LoadResult AddCategoriesBatch(CategoryInput[] cats, int count)
     {
-        if (string.IsNullOrWhiteSpace(name)) return false;
-        if (Find(name) != null) return false; // nombre único global
+        var res = new LoadResult();
 
-        var parent = string.IsNullOrWhiteSpace(parentName) ? Root : Find(parentName!);
-        if (parent == null) return false;
+        // Cola inicial (arreglo de tamaño máximo = count)
+        var pending = new CategoryInput[count];
+        int pendingCount = 0;
 
-        var newNode = new CategoryNode(name);
-        InsertSorted(parent, newNode);
-        return true;
+        for (int i = 0; i < count; i++)
+            ProcessCategory(cats[i], res, pending, ref pendingCount);
+
+        // Iterar mientras haya pendientes Y progreso
+        bool progress = true;
+        while (progress && pendingCount > 0)
+        {
+            progress = false;
+            var next = new CategoryInput[pendingCount];
+            int nextCount = 0;
+
+            for (int i = 0; i < pendingCount; i++)
+            {
+                int before = res.CategoriesAdded + res.CategoriesRejected;
+                ProcessCategory(pending[i], res, next, ref nextCount);
+                if (res.CategoriesAdded + res.CategoriesRejected > before)
+                    progress = true;
+            }
+
+            pending = next;
+            pendingCount = nextCount;
+        }
+
+        
+        for (int i = 0; i < pendingCount; i++)
+        {
+            res.AddDetail($"categoria '{pending[i].Name}': el padre '{pending[i].Parent}' no existe, se ignora");
+            res.CategoriesRejected++;
+        }
+
+        return res;
+    }
+
+    private void ProcessCategory(CategoryInput c, LoadResult res,
+                                 CategoryInput[] pending, ref int pendingCount)
+    {
+        // 1) Duplicado
+        if (NameExists(c.Name))
+        {
+            res.AddDetail($"categoria '{c.Name}' duplicada, se ignora");
+            res.CategoriesRejected++;
+            return;
+        }
+
+        // 2) Declaración de la raíz
+        if (c.Name == "Catalogo" && string.IsNullOrEmpty(c.Parent))
+        {
+            RootDeclared = true;
+            res.AddDetail("categoria raiz 'Catalogo' agregada");
+            res.CategoriesAdded++;
+            return;
+        }
+
+        // 3) Padre (default = Catalogo)
+        string parentName = string.IsNullOrEmpty(c.Parent) ? "Catalogo" : c.Parent!;
+
+        // 4) Padre aún no disponible → diferir
+        if (parentName != "Catalogo" && !NameExists(parentName))
+        {
+            pending[pendingCount++] = c;
+            return;
+        }
+        if (parentName == "Catalogo" && !RootDeclared)
+        {
+            pending[pendingCount++] = c;
+            return;
+        }
+
+        // 5) Resolver padre e insertar
+        var parentNode = parentName == "Catalogo" ? Root : Find(parentName);
+        if (parentNode == null)
+        {
+            pending[pendingCount++] = c;
+            return;
+        }
+
+        var newNode = new CategoryNode(c.Name);
+        InsertSorted(parentNode, newNode);
+        _names.Add(c.Name);
+        res.AddDetail($"categoria '{c.Name}' agregada bajo '{parentName}'");
+        res.CategoriesAdded++;
     }
 
     private void InsertSorted(CategoryNode parent, CategoryNode newNode)
     {
         if (parent.FirstChild == null ||
-            string.Compare(newNode.Name, parent.FirstChild.Name, StringComparison.OrdinalIgnoreCase) < 0)
+            string.Compare(newNode.Name, parent.FirstChild.Name,
+                           StringComparison.OrdinalIgnoreCase) < 0)
         {
             newNode.NextSibling = parent.FirstChild;
             parent.FirstChild = newNode;
@@ -51,19 +158,23 @@ public class NaryTree
         }
         var prev = parent.FirstChild;
         while (prev.NextSibling != null &&
-               string.Compare(prev.NextSibling.Name, newNode.Name, StringComparison.OrdinalIgnoreCase) < 0)
+               string.Compare(prev.NextSibling.Name, newNode.Name,
+                              StringComparison.OrdinalIgnoreCase) < 0)
             prev = prev.NextSibling;
         newNode.NextSibling = prev.NextSibling;
         prev.NextSibling = newNode;
     }
 
+    // ─────────────────────────────────────────────────────────
+    // Recorridos
+    // ─────────────────────────────────────────────────────────
+
     public string[] GetAllNames()
     {
-        int total = CountNodes(Root);
-        var arr = new string[total];
+        var acc = new string[CountNodes(Root)];
         int i = 0;
-        Collect(Root, arr, ref i);
-        return arr;
+        CollectArray(Root, acc, ref i);
+        return acc;
     }
 
     private int CountNodes(CategoryNode n)
@@ -74,11 +185,11 @@ public class NaryTree
         return c;
     }
 
-    private void Collect(CategoryNode n, string[] arr, ref int i)
+    private void CollectArray(CategoryNode n, string[] arr, ref int i)
     {
         arr[i++] = n.Name;
         var child = n.FirstChild;
-        while (child != null) { Collect(child, arr, ref i); child = child.NextSibling; }
+        while (child != null) { CollectArray(child, arr, ref i); child = child.NextSibling; }
     }
 
     public AvlTree CollectSubtreeBooks(CategoryNode start)
@@ -95,13 +206,17 @@ public class NaryTree
         while (child != null) { CollectBooks(child, acc); child = child.NextSibling; }
     }
 
+    // ─────────────────────────────────────────────────────────
+    // Graphviz
+    // ─────────────────────────────────────────────────────────
+
     public string ToDot(string? startAt = null)
     {
         var sb = new System.Text.StringBuilder();
         sb.AppendLine("digraph G {");
         sb.AppendLine("  node [shape=box, style=\"filled,rounded\", fillcolor=\"#cfe2ff\", fontname=\"Helvetica\"];");
         sb.AppendLine("  edge [arrowhead=vee];");
-        var start = startAt == null ? Root : (Find(startAt) ?? Root);
+        var start = string.IsNullOrEmpty(startAt) ? Root : (Find(startAt!) ?? Root);
         int c = 0;
         BuildDot(start, sb, ref c);
         sb.AppendLine("}");
